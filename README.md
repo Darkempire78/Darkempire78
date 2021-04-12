@@ -4,9 +4,13 @@ Hi, I'm Clément, I'm 17 and I live in France.
 <br>
 I'm passionate about computing and marketing. I'm also fascinated by machine learning and AI.
 <br>
-## Contact me
-* **Discord :** `Darkempire#8245`
-* **Twitter :** `@Im_Darkempire`
+
+<details><summary><b>Contact me</b></summary>
+    <ul>
+        <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
+        <li><strong>Twitter :</strong> <code>@Im_Darkempire#8245</code></li>
+    </ul>
+</details>
 
 <!-- Stats -->
 <details><summary><b>My stats</b></summary>
