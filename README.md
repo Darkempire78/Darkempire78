@@ -51,4 +51,4 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 When you click a button, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a GitHub Actions workflow that'll update my GitHub Profile README.md with the new state of the gameboard.
 </details>
 
-Do you want to make your own? Check out my [readme 2048 template](https://github.com/Darkempire78/Darkempire78)!
+Do you want to make your own? Check out my [readme 2048 template](https://github.com/Darkempire78/Readme-2048)!
