@@ -1,21 +1,9 @@
 {
     "grid": [
         [
-            2,
-            2,
+            4,
             8,
-            4
-        ],
-        [
-            null,
-            null,
-            2,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
+            4,
             null
         ],
         [
@@ -23,11 +11,24 @@
             null,
             null,
             null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            2,
+            null,
+            null,
+            2
         ]
     ],
-    "score": 20,
+    "score": 24,
     "bestScore": 0,
     "moves": [
-        "@Darkempire78"
+        "@Darkempire78",
+        "@Lucas-LeBodo"
     ]
 }
