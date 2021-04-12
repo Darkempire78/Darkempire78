@@ -1,37 +1,38 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            4,
-            2,
-            null,
-            null
-        ],
-        [
-            2,
-            4,
-            2,
-            null
-        ],
-        [
-            2,
             8,
+            2,
+            2,
+            null
+        ],
+        [
+            null,
             4,
+            4,
+            2
+        ],
+        [
+            null,
+            8,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
             null
         ]
     ],
-    "score": 28,
+    "score": 40,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
         "@Lucas-LeBodo",
         "@VishankSingh",
         "@HETHAT",
-        "@AlexisHuvier"
+        "@AlexisHuvier",
+        "@Asplix"
     ]
 }
