@@ -2,25 +2,25 @@
     "grid": [
         [
             4,
-            null,
+            2,
+            2,
+            2
+        ],
+        [
+            2,
+            4,
             null,
             null
         ],
         [
-            2,
-            null,
-            null,
-            2
-        ],
-        [
             4,
-            2,
+            null,
             null,
             null
         ],
         [
             16,
-            4,
+            null,
             2,
             null
         ]
@@ -35,6 +35,7 @@
         "@AlexisHuvier",
         "@Asplix",
         "@devnull03",
-        "@Benco11-developement"
+        "@Benco11-developement",
+        "@lionrocker"
     ]
 }
