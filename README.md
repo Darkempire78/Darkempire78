@@ -50,6 +50,7 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 | [@HETHAT](https://github.com/HETHAT) | 1 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 1 |
 | [@Asplix](https://github.com/Asplix) | 1 |
+| [@devnull03](https://github.com/devnull03) | 1 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
