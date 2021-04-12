@@ -39,10 +39,6 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 <a href="https://github.com/Darkempire78/readme-2048/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideUp.png"/> </a> <a href="https://github.com/Darkempire78/readme-2048/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideDown.png"/> </a> <a href="https://github.com/Darkempire78/readme-2048/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideLeft.png"/> </a> <a href="https://github.com/Darkempire78/readme-2048/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideRight.png"/> </a>
 <!-- 2048GameActions -->
 
-<details><summary><b>How this works</b></summary>
-    When you click a button, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a GitHub Actions workflow that'll update my GitHub Profile README.md with the new state of the gameboard.
-</details>
-
 ## Ranking
 
 <!-- 2048Ranking -->
@@ -50,3 +46,7 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 |---------------|---------|
 | [@Darkempire78](https://github.com/Darkempire78) | 4 |
 <!-- 2048Ranking -->
+
+<details><summary><b>How this works</b></summary>
+When you click a button, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a GitHub Actions workflow that'll update my GitHub Profile README.md with the new state of the gameboard.
+</details>
