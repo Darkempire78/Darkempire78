@@ -2,26 +2,26 @@
     "grid": [
         [
             null,
-            4,
-            8,
-            4
-        ],
-        [
-            null,
-            null,
-            null,
-            2
-        ],
-        [
-            null,
             null,
             null,
             null
         ],
         [
             null,
-            2,
             null,
+            null,
+            4
+        ],
+        [
+            2,
+            4,
+            null,
+            2
+        ],
+        [
+            null,
+            2,
+            8,
             4
         ]
     ],
@@ -30,6 +30,7 @@
     "moves": [
         "@Darkempire78",
         "@Lucas-LeBodo",
-        "@VishankSingh"
+        "@VishankSingh",
+        "@HETHAT"
     ]
 }
