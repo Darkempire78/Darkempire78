@@ -53,6 +53,7 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 | [@devnull03](https://github.com/devnull03) | 1 |
 | [@Benco11-developement](https://github.com/Benco11-developement) | 1 |
 | [@lionrocker](https://github.com/lionrocker) | 1 |
+| [@megat69](https://github.com/megat69) | 1 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
