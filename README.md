@@ -43,8 +43,8 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 
 <!-- 2048Ranking -->
 | Players | Actions |
-|---------------|---------|
-| [@Darkempire78](https://github.com/Darkempire78) | 4 |
+|---------------|:---------:|
+| [@Darkempire78](https://github.com/Darkempire78) | 5 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
