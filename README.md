@@ -48,6 +48,7 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 1 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 | [@HETHAT](https://github.com/HETHAT) | 1 |
+| [@AlexisHuvier](https://github.com/AlexisHuvier) | 1 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>

@@ -7,22 +7,22 @@
             null
         ],
         [
+            4,
+            2,
             null,
-            null,
-            null,
-            4
+            null
         ],
         [
             2,
             4,
-            null,
-            2
+            2,
+            null
         ],
         [
-            null,
             2,
             8,
-            4
+            4,
+            null
         ]
     ],
     "score": 28,
@@ -31,6 +31,7 @@
         "@Darkempire78",
         "@Lucas-LeBodo",
         "@VishankSingh",
-        "@HETHAT"
+        "@HETHAT",
+        "@AlexisHuvier"
     ]
 }
