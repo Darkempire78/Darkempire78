@@ -8,9 +8,9 @@
         ],
         [
             2,
-            4,
-            2,
-            2
+            8,
+            null,
+            null
         ],
         [
             8,
@@ -22,10 +22,10 @@
             16,
             8,
             null,
-            null
+            2
         ]
     ],
-    "score": 84,
+    "score": 96,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -42,6 +42,7 @@
         "@Darkempire78",
         "@elias1607",
         "@Mystereee",
-        "@RodyMan"
+        "@RodyMan",
+        "@elias1607"
     ]
 }
