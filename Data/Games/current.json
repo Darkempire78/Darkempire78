@@ -7,25 +7,25 @@
             null
         ],
         [
-            null,
-            null,
             2,
-            4
+            4,
+            2,
+            null
         ],
         [
+            32,
             null,
-            16,
             null,
-            16
+            null
         ],
         [
-            null,
             2,
             32,
-            4
+            4,
+            null
         ]
     ],
-    "score": 220,
+    "score": 252,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -53,6 +53,7 @@
         "@Lebyy",
         "@Splyder",
         "@TapsHTS",
-        "@MarcinK50"
+        "@MarcinK50",
+        "@Darkempire78"
     ]
 }
