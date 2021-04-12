@@ -18,7 +18,8 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
     <!-- ![Darkempire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Darkempire78)](https://github.com/anuraghazra/github-readme-stats) -->
 </details>
 
-## To play to 2048
+
+# To play to 2048
 
 **Game in progress. This is a public game of 2048. Anyone can play.**
 
