@@ -14,11 +14,11 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Darkempire78)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkempire78&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact">
-<!-- ![Darkempire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Darkempire78)](https://github.com/anuraghazra/github-readme-stats) -->
-</details
+   <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkempire78&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact">
+    <!-- ![Darkempire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Darkempire78)](https://github.com/anuraghazra/github-readme-stats) -->
+</details>
 
-# To play to 2048
+## To play to 2048
 
 <!-- 2048GameBoard -->
 <img src="https://github.com/Darkempire78/readme-2048/blob/main/Data/gameboard.png" width="500"/>
