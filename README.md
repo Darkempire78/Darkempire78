@@ -1,5 +1,5 @@
 # DARKEMPIRE PROFIL  <img src="https://media3.giphy.com/media/jqHmOFjIb9KV09DOPB/giphy.gif" width="50">
-
+s
 Hi, I'm Clément, I'm 17 and I live in France.
 <br>
 I'm passionate about computing and marketing. I'm also fascinated by machine learning and AI.
