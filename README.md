@@ -8,10 +8,12 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 * **Discord :** `Darkempire#8245`
 * **Twitter :** `@Im_Darkempire`
 
-## My stats
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+<!-- Stats -->
+<details><summary><b>My stats</b></summary>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Darkempire78)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Darkempire78)](https://github.com/ryo-ma/github-profile-trophy)
+</details
 
 ## The languages I know
 ![Python](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
@@ -44,18 +46,3 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 |---------------|---------|
 | [@Darkempire78](https://github.com/Darkempire78) | 4 |
 <!-- 2048Ranking -->
-
-## To do
-- [ ] Remove impossible actions
-- [ ] Do not download Pillow each time 
-- [ ] Prevent from runing twice actions at the same time (https://github.com/marketplace/actions/wait-for-check)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-This project is under [GPLv3](LICENSE).
