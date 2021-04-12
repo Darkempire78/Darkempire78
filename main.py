@@ -154,7 +154,8 @@ def slideLeft(issue, issueAuthor):
     issueText = "You slided left!"
     endAction(grid, score, issue, issueAuthor, issueText, False)
 
-def slideRight(issue, issueAuthor):
+def slideRigh():
+# def slideRight(issue, issueAuthor):
     """Slide right the grid"""
     grid = getGrid()
 
@@ -164,7 +165,7 @@ def slideRight(issue, issueAuthor):
 
     while changes:
         changes = False
-        for line in range(3,-1, -1):
+        for line in range(4):
             for case in range(3,-1, -1):
 
                 if (lastCase is None) and (grid[line][case]) and (case != 3):
@@ -181,7 +182,7 @@ def slideRight(issue, issueAuthor):
                 lastCase = grid[line][case]
                 
     issueText = "You slided right!"
-    endAction(grid, score, issue, issueAuthor, issueText, False)
+    # endAction(grid, score, issue, issueAuthor, issueText, False)
 
 
 def slideUp(issue, issueAuthor):
@@ -400,4 +401,4 @@ def endAction(grid, score, issue, issueAuthor, issueText, isNewGame):
 
 
 if __name__ == "__main__":
-	main()
+	slideRigh()
