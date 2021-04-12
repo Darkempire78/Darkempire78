@@ -44,7 +44,7 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@Darkempire78](https://github.com/Darkempire78) | 5 |
+| [@Darkempire78](https://github.com/Darkempire78) | 6 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 1 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 | [@HETHAT](https://github.com/HETHAT) | 1 |
