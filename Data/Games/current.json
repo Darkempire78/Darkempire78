@@ -2,30 +2,30 @@
     "grid": [
         [
             null,
-            16,
-            32,
-            4
+            null,
+            null,
+            null
         ],
         [
             null,
             null,
+            2,
+            4
+        ],
+        [
             null,
-            8
+            16,
+            null,
+            16
         ],
         [
             null,
             2,
-            null,
-            8
-        ],
-        [
-            null,
-            null,
-            null,
+            32,
             4
         ]
     ],
-    "score": 204,
+    "score": 220,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -52,6 +52,7 @@
         "@SimonLeclere",
         "@Lebyy",
         "@Splyder",
-        "@TapsHTS"
+        "@TapsHTS",
+        "@MarcinK50"
     ]
 }
