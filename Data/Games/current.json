@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            8,
-            null,
-            null,
-            null
-        ],
-        [
-            4,
-            8,
-            2,
-            null
-        ],
-        [
-            2,
-            8,
-            4,
-            null
-        ],
-        [
-            2,
             16,
-            8,
+            32,
+            2,
             2
+        ],
+        [
+            null,
+            null,
+            4,
+            null
+        ],
+        [
+            null,
+            null,
+            8,
+            4
+        ],
+        [
+            null,
+            null,
+            null,
+            null
         ]
     ],
-    "score": 116,
+    "score": 192,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -49,6 +49,7 @@
         "@BeowolfK",
         "@Darkempire78",
         "@QuentinZimmer",
-        "@SimonLeclere"
+        "@SimonLeclere",
+        "@Lebyy"
     ]
 }
