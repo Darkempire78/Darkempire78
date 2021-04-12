@@ -5,13 +5,6 @@ Hi, I'm Clément, I'm 17 and I live in France.
 I'm passionate about computing and marketing. I'm also fascinated by machine learning and AI.
 <br>
 
-<details><summary><b>Contact me</b></summary>
-    <ul>
-        <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
-        <li><strong>Twitter :</strong> <code>@Im_Darkempire#8245</code></li>
-    </ul>
-</details>
-
 <!-- Stats -->
 <details><summary><b>My stats</b></summary>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
@@ -20,6 +13,15 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 
    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkempire78&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=compact">
     <!-- ![Darkempire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Darkempire78)](https://github.com/anuraghazra/github-readme-stats) -->
+</details>
+
+
+<!-- Contact me -->
+<details><summary><b>Contact me</b></summary>
+    <ul>
+        <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
+        <li><strong>Twitter :</strong> <code>@Im_Darkempire#8245</code></li>
+    </ul>
 </details>
 
 
