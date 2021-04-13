@@ -22,6 +22,10 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
         <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
         <li><strong>Twitter :</strong> <code>@Im_Darkempire</code></li>
     </ul>
+    
+**Join the Discord server !**
+
+[![](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
 </details>
 
 
