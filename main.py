@@ -172,7 +172,7 @@ def slideRight(issue, issueAuthor):
                     grid[line][case] = None
                     changes = True
 
-                elif (lastCase) and (grid[line][case]) and (lastCase == grid[line][case]):
+                elif (lastCase) and (grid[line][case]) and (lastCase == grid[line][case]) and (case != 3):
                     score += grid[line][case] * 2
                     grid[line][case+1] = grid[line][case] * 2
                     grid[line][case] = None
