@@ -2,7 +2,7 @@
     "grid": [
         [
             8,
-            2,
+            null,
             null,
             null
         ],
@@ -14,9 +14,9 @@
         ],
         [
             8,
-            2,
+            4,
             8,
-            null
+            4
         ],
         [
             2,
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 352,
+    "score": 356,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -64,6 +64,7 @@
         "@DaCapo7",
         "@Instelce",
         "@Lucas-LeBodo",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@SkyDonald"
     ]
 }
