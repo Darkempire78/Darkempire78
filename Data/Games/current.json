@@ -7,22 +7,22 @@
             4
         ],
         [
+            null,
+            null,
             64,
-            4,
-            null,
-            null
-        ],
-        [
-            4,
-            2,
-            null,
-            null
+            4
         ],
         [
             null,
-            2,
             null,
-            null
+            4,
+            2
+        ],
+        [
+            4,
+            null,
+            null,
+            2
         ]
     ],
     "score": 320,
@@ -58,6 +58,7 @@
         "@AlexisHuvier",
         "@TeknicalMage",
         "@TMworldTM",
-        "@banana-galaxy"
+        "@banana-galaxy",
+        "@Tevzi26"
     ]
 }
