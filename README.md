@@ -46,10 +46,10 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 |---------------|:---------:|
 | [@Darkempire78](https://github.com/Darkempire78) | 8 |
 | [@elias1607](https://github.com/elias1607) | 3 |
+| [@AlexisHuvier](https://github.com/AlexisHuvier) | 2 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 1 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 | [@HETHAT](https://github.com/HETHAT) | 1 |
-| [@AlexisHuvier](https://github.com/AlexisHuvier) | 1 |
 | [@Asplix](https://github.com/Asplix) | 1 |
 | [@devnull03](https://github.com/devnull03) | 1 |
 | [@Benco11-developement](https://github.com/Benco11-developement) | 1 |

@@ -1,12 +1,6 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
             2,
             4,
             2,
@@ -14,14 +8,20 @@
         ],
         [
             32,
-            null,
-            null,
+            32,
+            4,
             null
         ],
         [
             2,
-            32,
-            4,
+            null,
+            null,
+            4
+        ],
+        [
+            null,
+            null,
+            null,
             null
         ]
     ],
@@ -54,6 +54,7 @@
         "@Splyder",
         "@TapsHTS",
         "@MarcinK50",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@AlexisHuvier"
     ]
 }
