@@ -7,25 +7,25 @@
             4
         ],
         [
-            32,
-            32,
+            64,
             4,
+            null,
             null
         ],
         [
             4,
+            2,
+            null,
+            null
+        ],
+        [
             null,
             2,
-            null
-        ],
-        [
-            null,
-            null,
             null,
             null
         ]
     ],
-    "score": 256,
+    "score": 320,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -57,6 +57,7 @@
         "@Darkempire78",
         "@AlexisHuvier",
         "@TeknicalMage",
-        "@TMworldTM"
+        "@TMworldTM",
+        "@banana-galaxy"
     ]
 }
