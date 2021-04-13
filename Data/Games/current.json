@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            4,
-            4,
+            8,
             2,
-            8
-        ],
-        [
-            null,
-            2,
-            64,
-            4
-        ],
-        [
-            null,
-            null,
             8,
             null
         ],
         [
-            null,
-            null,
-            null,
+            2,
+            64,
+            4,
             2
+        ],
+        [
+            8,
+            null,
+            null,
+            null
+        ],
+        [
+            2,
+            null,
+            null,
+            null
         ]
     ],
-    "score": 344,
+    "score": 352,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -62,6 +62,7 @@
         "@Tevzi26",
         "@Snape25",
         "@DaCapo7",
-        "@Instelce"
+        "@Instelce",
+        "@Lucas-LeBodo"
     ]
 }

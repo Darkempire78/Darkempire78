@@ -46,8 +46,8 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 |---------------|:---------:|
 | [@Darkempire78](https://github.com/Darkempire78) | 8 |
 | [@elias1607](https://github.com/elias1607) | 3 |
+| [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 2 |
-| [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 1 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 | [@HETHAT](https://github.com/HETHAT) | 1 |
 | [@Asplix](https://github.com/Asplix) | 1 |
