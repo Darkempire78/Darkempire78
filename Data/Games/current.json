@@ -1,10 +1,10 @@
 {
     "grid": [
         [
+            2,
             8,
             4,
-            8,
-            8
+            16
         ],
         [
             2,
@@ -13,9 +13,9 @@
             2
         ],
         [
+            null,
             4,
             2,
-            null,
             4
         ],
         [
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 360,
+    "score": 376,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -67,6 +67,7 @@
         "@Darkempire78",
         "@SkyDonald",
         "@JAGUARAVI",
-        "@Rix565"
+        "@Rix565",
+        "@SkyDonald"
     ]
 }

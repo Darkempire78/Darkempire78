@@ -48,12 +48,12 @@ I'm passionate about computing and marketing. I'm also fascinated by machine lea
 | [@elias1607](https://github.com/elias1607) | 3 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 2 |
+| [@SkyDonald](https://github.com/SkyDonald) | 2 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 | [@HETHAT](https://github.com/HETHAT) | 1 |
 | [@Asplix](https://github.com/Asplix) | 1 |
 | [@devnull03](https://github.com/devnull03) | 1 |
 | [@Benco11-developement](https://github.com/Benco11-developement) | 1 |
-| [@lionrocker](https://github.com/lionrocker) | 1 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
