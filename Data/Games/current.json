@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
-            null,
             4,
-            32
+            32,
+            null,
+            2
         ],
         [
-            null,
             2,
             64,
-            4
+            4,
+            null
         ],
         [
             2,
+            8,
             null,
-            null,
-            8
+            null
         ],
         [
+            4,
             null,
             null,
-            null,
-            4
+            null
         ]
     ],
     "score": 452,
@@ -71,6 +71,7 @@
         "@SkyDonald",
         "@Darkempire78",
         "@Baxymoz",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@Ayan9074"
     ]
 }
