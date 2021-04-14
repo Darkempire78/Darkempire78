@@ -1,9 +1,9 @@
 {
     "grid": [
         [
-            null,
-            null,
             2,
+            2,
+            null,
             null
         ],
         [
@@ -21,11 +21,11 @@
         [
             16,
             64,
-            8,
-            8
+            16,
+            null
         ]
     ],
-    "score": 504,
+    "score": 520,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -77,6 +77,7 @@
         "@Daigan1",
         "@Sellig6792",
         "@ThatRemixiak",
-        "@Galitan-dev"
+        "@Galitan-dev",
+        "@abdullah-1312007"
     ]
 }
