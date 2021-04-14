@@ -9,8 +9,8 @@
         [
             4,
             32,
-            null,
-            2
+            2,
+            4
         ],
         [
             16,
@@ -80,6 +80,7 @@
         "@Galitan-dev",
         "@abdullah-1312007",
         "@DiaxManPl",
-        "@TheLastGamer18"
+        "@TheLastGamer18",
+        "@pauldb09"
     ]
 }
