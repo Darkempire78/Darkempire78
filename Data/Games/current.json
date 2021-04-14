@@ -3,8 +3,8 @@
         [
             4,
             32,
-            2,
-            2
+            4,
+            null
         ],
         [
             8,
@@ -13,8 +13,8 @@
             2
         ],
         [
-            null,
             8,
+            null,
             null,
             null
         ],
@@ -22,10 +22,10 @@
             null,
             null,
             null,
-            null
+            4
         ]
     ],
-    "score": 464,
+    "score": 468,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -74,6 +74,7 @@
         "@Darkempire78",
         "@Ayan9074",
         "@AlexisHuvier",
-        "@Daigan1"
+        "@Daigan1",
+        "@Sellig6792"
     ]
 }
