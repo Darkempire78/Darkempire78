@@ -2,7 +2,7 @@
 
 Hi, I'm Clément, I'm 17 and I live in France.
 <br>
-I'm passionate about computing and marketing. I'm also fascinated by machine learning and AI.
+I'm passionated about computing and marketing. I'm also fascinated by machine learning and AI.
 <br>
 
 <!-- Stats -->
