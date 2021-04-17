@@ -1,16 +1,16 @@
 {
     "grid": [
         [
-            2,
             null,
             null,
-            null
+            null,
+            2
         ],
         [
-            2,
-            4,
             null,
-            null
+            2,
+            2,
+            4
         ],
         [
             8,
@@ -19,10 +19,10 @@
             4
         ],
         [
+            null,
             4,
             2,
-            64,
-            null
+            64
         ]
     ],
     "score": 648,
@@ -89,6 +89,7 @@
         "@Linker-123",
         "@Darkempire78",
         "@The-Fritzy",
-        "@Mafia-7777"
+        "@Mafia-7777",
+        "@Yghore"
     ]
 }
