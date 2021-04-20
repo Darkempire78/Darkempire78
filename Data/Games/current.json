@@ -1,16 +1,16 @@
 {
     "grid": [
         [
+            4,
             8,
             2,
-            2,
-            2
+            4
         ],
         [
             null,
+            null,
             64,
-            8,
-            8
+            16
         ],
         [
             null,
@@ -21,11 +21,11 @@
         [
             null,
             null,
-            2,
-            null
+            null,
+            2
         ]
     ],
-    "score": 656,
+    "score": 676,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -91,6 +91,7 @@
         "@The-Fritzy",
         "@Mafia-7777",
         "@Yghore",
-        "@faded-ninja"
+        "@faded-ninja",
+        "@codekant"
     ]
 }
