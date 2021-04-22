@@ -54,10 +54,10 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
 | [@SkyDonald](https://github.com/SkyDonald) | 2 |
 | [@ThatRemixiak](https://github.com/ThatRemixiak) | 2 |
+| [@Mafia-7777](https://github.com/Mafia-7777) | 2 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 | [@HETHAT](https://github.com/HETHAT) | 1 |
 | [@Asplix](https://github.com/Asplix) | 1 |
-| [@devnull03](https://github.com/devnull03) | 1 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
