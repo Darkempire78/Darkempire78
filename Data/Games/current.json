@@ -9,23 +9,23 @@
         [
             2,
             64,
-            2,
-            2
+            4,
+            null
         ],
         [
             4,
             16,
             8,
-            null
+            2
         ],
         [
             64,
-            2,
+            4,
             null,
-            2
+            null
         ]
     ],
-    "score": 688,
+    "score": 696,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -97,6 +97,7 @@
         "@Ilan-75",
         "@ThatRemixiak",
         "@Mafia-7777",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@TheLastGamer18"
     ]
 }
