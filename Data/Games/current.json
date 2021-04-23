@@ -8,9 +8,9 @@
         ],
         [
             2,
+            2,
             64,
-            4,
-            null
+            4
         ],
         [
             4,
@@ -19,10 +19,10 @@
             2
         ],
         [
-            64,
-            4,
             null,
-            null
+            null,
+            64,
+            4
         ]
     ],
     "score": 696,
@@ -98,6 +98,7 @@
         "@ThatRemixiak",
         "@Mafia-7777",
         "@Darkempire78",
-        "@TheLastGamer18"
+        "@TheLastGamer18",
+        "@VerstreuteSeele"
     ]
 }
