@@ -2,30 +2,30 @@
     "grid": [
         [
             4,
-            2,
+            4,
             8,
-            4
+            8
         ],
         [
             2,
-            2,
+            16,
             64,
+            2
+        ],
+        [
+            4,
+            null,
+            8,
             4
         ],
         [
             4,
-            16,
-            8,
-            2
-        ],
-        [
-            null,
             null,
             64,
-            4
+            null
         ]
     ],
-    "score": 696,
+    "score": 708,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -99,6 +99,7 @@
         "@Mafia-7777",
         "@Darkempire78",
         "@TheLastGamer18",
-        "@VerstreuteSeele"
+        "@VerstreuteSeele",
+        "@KintonHiryuu"
     ]
 }
