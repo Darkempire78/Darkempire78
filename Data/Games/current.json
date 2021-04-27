@@ -3,29 +3,29 @@
         [
             16,
             8,
-            null,
-            null
+            4,
+            4
         ],
         [
             2,
             16,
-            64,
-            2
-        ],
-        [
-            4,
-            8,
-            4,
+            128,
             null
         ],
         [
-            4,
+            8,
+            8,
+            null,
+            null
+        ],
+        [
+            null,
             64,
             null,
             2
         ]
     ],
-    "score": 732,
+    "score": 872,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -101,6 +101,7 @@
         "@TheLastGamer18",
         "@VerstreuteSeele",
         "@KintonHiryuu",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@Merlode11"
     ]
 }
