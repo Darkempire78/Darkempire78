@@ -1,10 +1,10 @@
 {
     "grid": [
         [
-            16,
-            8,
-            4,
-            4
+            32,
+            null,
+            null,
+            null
         ],
         [
             2,
@@ -13,19 +13,19 @@
             null
         ],
         [
-            8,
-            8,
+            16,
             null,
+            2,
             null
         ],
         [
-            null,
             64,
+            2,
             null,
-            2
+            null
         ]
     ],
-    "score": 872,
+    "score": 944,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -102,6 +102,7 @@
         "@VerstreuteSeele",
         "@KintonHiryuu",
         "@Darkempire78",
-        "@Merlode11"
+        "@Merlode11",
+        "@LePtitMetalleux"
     ]
 }
