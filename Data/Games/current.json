@@ -2,25 +2,25 @@
     "grid": [
         [
             32,
-            null,
-            null,
-            null
-        ],
-        [
-            2,
             16,
             128,
             null
         ],
         [
-            16,
-            null,
+            2,
+            2,
             2,
             null
         ],
         [
+            16,
+            null,
+            4,
+            null
+        ],
+        [
             64,
-            2,
+            null,
             null,
             null
         ]
@@ -103,6 +103,7 @@
         "@KintonHiryuu",
         "@Darkempire78",
         "@Merlode11",
-        "@LePtitMetalleux"
+        "@LePtitMetalleux",
+        "@VirusLauncher"
     ]
 }
