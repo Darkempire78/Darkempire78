@@ -7,25 +7,25 @@
             null
         ],
         [
+            4,
             2,
-            2,
-            2,
+            null,
             null
         ],
         [
             16,
-            null,
             4,
+            null,
             null
         ],
         [
             64,
-            null,
+            2,
             null,
             null
         ]
     ],
-    "score": 944,
+    "score": 948,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -104,6 +104,7 @@
         "@Darkempire78",
         "@Merlode11",
         "@LePtitMetalleux",
-        "@VirusLauncher"
+        "@VirusLauncher",
+        "@RJRP44"
     ]
 }
