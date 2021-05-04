@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
             32,
             16,
-            128
+            128,
+            null
         ],
         [
-            null,
-            null,
             4,
+            2,
+            null,
             2
         ],
         [
             2,
-            null,
             16,
-            4
+            4,
+            null
         ],
         [
-            null,
-            null,
             64,
-            2
+            2,
+            null,
+            null
         ]
     ],
     "score": 948,
@@ -106,6 +106,7 @@
         "@LePtitMetalleux",
         "@VirusLauncher",
         "@RJRP44",
-        "@mmccall0813"
+        "@mmccall0813",
+        "@mamamia5x"
     ]
 }
