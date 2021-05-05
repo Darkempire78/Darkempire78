@@ -7,8 +7,8 @@
             null
         ],
         [
-            4,
-            2,
+            8,
+            null,
             null,
             2
         ],
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 948,
+    "score": 960,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -107,6 +107,7 @@
         "@VirusLauncher",
         "@RJRP44",
         "@mmccall0813",
-        "@mamamia5x"
+        "@mamamia5x",
+        "@8BitJonny"
     ]
 }
