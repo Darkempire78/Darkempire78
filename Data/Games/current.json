@@ -10,13 +10,13 @@
             16,
             null,
             null,
-            null
+            2
         ],
         [
             4,
+            2,
             null,
-            null,
-            2
+            null
         ],
         [
             64,
@@ -112,6 +112,7 @@
         "@texorexo",
         "@Yash094",
         "@8BitJonny",
-        "@FebrianXsu"
+        "@FebrianXsu",
+        "@xteejayx"
     ]
 }
