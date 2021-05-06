@@ -56,8 +56,8 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@ThatRemixiak](https://github.com/ThatRemixiak) | 2 |
 | [@TheLastGamer18](https://github.com/TheLastGamer18) | 2 |
 | [@Mafia-7777](https://github.com/Mafia-7777) | 2 |
+| [@8BitJonny](https://github.com/8BitJonny) | 2 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
-| [@HETHAT](https://github.com/HETHAT) | 1 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>

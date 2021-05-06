@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            32,
-            32,
+            64,
             128,
-            2
-        ],
-        [
-            8,
-            4,
-            4,
+            2,
             null
         ],
         [
-            2,
-            2,
+            16,
+            null,
+            null,
+            null
+        ],
+        [
+            4,
+            null,
             null,
             null
         ],
         [
             64,
-            null,
+            2,
             null,
             null
         ]
     ],
-    "score": 996,
+    "score": 1088,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -110,6 +110,7 @@
         "@mamamia5x",
         "@8BitJonny",
         "@texorexo",
-        "@Yash094"
+        "@Yash094",
+        "@8BitJonny"
     ]
 }
