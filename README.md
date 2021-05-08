@@ -51,12 +51,12 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@Darkempire78](https://github.com/Darkempire78) | 10 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
 | [@elias1607](https://github.com/elias1607) | 3 |
+| [@8BitJonny](https://github.com/8BitJonny) | 3 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
 | [@SkyDonald](https://github.com/SkyDonald) | 2 |
 | [@ThatRemixiak](https://github.com/ThatRemixiak) | 2 |
 | [@TheLastGamer18](https://github.com/TheLastGamer18) | 2 |
 | [@Mafia-7777](https://github.com/Mafia-7777) | 2 |
-| [@8BitJonny](https://github.com/8BitJonny) | 2 |
 | [@VishankSingh](https://github.com/VishankSingh) | 1 |
 <!-- 2048Ranking -->
 

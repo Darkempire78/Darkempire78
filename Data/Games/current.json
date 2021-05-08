@@ -1,28 +1,28 @@
 {
     "grid": [
         [
+            null,
             64,
             128,
-            2,
-            null
+            2
         ],
         [
+            null,
+            null,
             16,
+            2
+        ],
+        [
             null,
             null,
+            4,
             2
         ],
         [
             4,
-            2,
             null,
-            null
-        ],
-        [
             64,
-            2,
-            null,
-            null
+            2
         ]
     ],
     "score": 1088,
@@ -113,6 +113,7 @@
         "@Yash094",
         "@8BitJonny",
         "@FebrianXsu",
-        "@xteejayx"
+        "@xteejayx",
+        "@8BitJonny"
     ]
 }
