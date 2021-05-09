@@ -8,21 +8,21 @@
         ],
         [
             null,
+            null,
             2,
-            16,
-            null
+            16
+        ],
+        [
+            2,
+            null,
+            null,
+            4
         ],
         [
             null,
             null,
-            4,
-            null
-        ],
-        [
             null,
-            null,
-            64,
-            null
+            64
         ]
     ],
     "score": 1104,
@@ -115,6 +115,7 @@
         "@FebrianXsu",
         "@xteejayx",
         "@8BitJonny",
-        "@Splyder"
+        "@Splyder",
+        "@8BitJonny"
     ]
 }
