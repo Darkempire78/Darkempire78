@@ -7,22 +7,22 @@
             8
         ],
         [
-            null,
-            null,
             2,
-            16
+            16,
+            2,
+            null
         ],
         [
             2,
+            4,
             null,
-            null,
-            4
+            null
         ],
         [
+            64,
             null,
             null,
-            null,
-            64
+            null
         ]
     ],
     "score": 1104,
@@ -116,6 +116,7 @@
         "@xteejayx",
         "@8BitJonny",
         "@Splyder",
-        "@8BitJonny"
+        "@8BitJonny",
+        "@Darkempire78"
     ]
 }
