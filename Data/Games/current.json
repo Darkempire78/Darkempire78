@@ -2,30 +2,30 @@
     "grid": [
         [
             8,
-            64,
             128,
-            8
-        ],
-        [
-            null,
-            64,
-            16,
-            4
-        ],
-        [
-            null,
-            null,
-            null,
-            4
+            128,
+            16
         ],
         [
             2,
+            null,
+            16,
+            null
+        ],
+        [
+            null,
+            2,
+            null,
+            null
+        ],
+        [
+            null,
             null,
             null,
             null
         ]
     ],
-    "score": 1120,
+    "score": 1272,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -119,6 +119,7 @@
         "@8BitJonny",
         "@Darkempire78",
         "@8BitJonny",
-        "@LeweC"
+        "@LeweC",
+        "@kacperhaha"
     ]
 }
