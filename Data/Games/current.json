@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            4,
+            8,
             64,
             128,
             8
         ],
         [
-            2,
+            64,
             16,
             2,
-            null
+            2
         ],
         [
-            2,
+            null,
             4,
             null,
             null
         ],
         [
-            64,
+            null,
             null,
             null,
             null
         ]
     ],
-    "score": 1104,
+    "score": 1116,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -117,6 +117,7 @@
         "@8BitJonny",
         "@Splyder",
         "@8BitJonny",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@8BitJonny"
     ]
 }
