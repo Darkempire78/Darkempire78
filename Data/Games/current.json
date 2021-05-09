@@ -7,25 +7,25 @@
             8
         ],
         [
+            null,
             64,
             16,
+            4
+        ],
+        [
+            null,
+            null,
+            null,
+            4
+        ],
+        [
             2,
-            2
-        ],
-        [
-            null,
-            4,
-            null,
-            null
-        ],
-        [
-            null,
             null,
             null,
             null
         ]
     ],
-    "score": 1116,
+    "score": 1120,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -118,6 +118,7 @@
         "@Splyder",
         "@8BitJonny",
         "@Darkempire78",
-        "@8BitJonny"
+        "@8BitJonny",
+        "@LeweC"
     ]
 }
