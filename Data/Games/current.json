@@ -4,7 +4,7 @@
             null,
             null,
             null,
-            null
+            4
         ],
         [
             null,
@@ -13,19 +13,19 @@
             2
         ],
         [
+            null,
+            null,
             8,
-            128,
-            128,
-            null
+            256
         ],
         [
-            2,
-            2,
-            16,
-            16
+            null,
+            null,
+            4,
+            32
         ]
     ],
-    "score": 1272,
+    "score": 1564,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -121,6 +121,7 @@
         "@8BitJonny",
         "@LeweC",
         "@kacperhaha",
-        "@ethanonweller"
+        "@ethanonweller",
+        "@8BitJonny"
     ]
 }

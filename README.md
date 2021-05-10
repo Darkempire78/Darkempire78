@@ -49,7 +49,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | Players | Actions |
 |---------------|:---------:|
 | [@Darkempire78](https://github.com/Darkempire78) | 11 |
-| [@8BitJonny](https://github.com/8BitJonny) | 5 |
+| [@8BitJonny](https://github.com/8BitJonny) | 6 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
 | [@elias1607](https://github.com/elias1607) | 3 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
