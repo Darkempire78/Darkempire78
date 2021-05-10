@@ -1,28 +1,28 @@
 {
     "grid": [
         [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            2
+        ],
+        [
             8,
             128,
             128,
-            16
+            null
         ],
         [
             2,
-            null,
+            2,
             16,
-            null
-        ],
-        [
-            null,
-            2,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
+            16
         ]
     ],
     "score": 1272,
@@ -120,6 +120,7 @@
         "@Darkempire78",
         "@8BitJonny",
         "@LeweC",
-        "@kacperhaha"
+        "@kacperhaha",
+        "@ethanonweller"
     ]
 }
