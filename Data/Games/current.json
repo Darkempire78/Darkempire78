@@ -2,25 +2,25 @@
     "grid": [
         [
             4,
-            null,
+            256,
             null,
             2
         ],
         [
             2,
-            null,
-            null,
+            32,
+            2,
             null
         ],
         [
             8,
-            256,
+            null,
             null,
             null
         ],
         [
             4,
-            32,
+            null,
             null,
             null
         ]
@@ -123,6 +123,7 @@
         "@kacperhaha",
         "@ethanonweller",
         "@8BitJonny",
-        "@wolf-yuan-6115"
+        "@wolf-yuan-6115",
+        "@8BitJonny"
     ]
 }
