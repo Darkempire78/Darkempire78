@@ -2,27 +2,27 @@
     "grid": [
         [
             4,
-            256,
+            2,
             null,
-            2
+            null
         ],
         [
             2,
-            32,
-            2,
+            null,
+            null,
             null
         ],
         [
             8,
-            null,
+            256,
             null,
             null
         ],
         [
             4,
-            null,
-            null,
-            null
+            32,
+            2,
+            2
         ]
     ],
     "score": 1564,
@@ -124,6 +124,7 @@
         "@ethanonweller",
         "@8BitJonny",
         "@wolf-yuan-6115",
-        "@8BitJonny"
+        "@8BitJonny",
+        "@wolf-yuan-6115"
     ]
 }
