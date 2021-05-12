@@ -8,7 +8,7 @@
         ],
         [
             2,
-            null,
+            2,
             null,
             null
         ],
@@ -21,11 +21,11 @@
         [
             4,
             32,
-            2,
-            2
+            4,
+            null
         ]
     ],
-    "score": 1564,
+    "score": 1568,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -125,6 +125,7 @@
         "@8BitJonny",
         "@wolf-yuan-6115",
         "@8BitJonny",
-        "@wolf-yuan-6115"
+        "@wolf-yuan-6115",
+        "@Sellig6792"
     ]
 }
