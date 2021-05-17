@@ -2,30 +2,30 @@
     "grid": [
         [
             16,
-            2,
-            4,
+            null,
+            null,
             2
         ],
         [
             4,
-            256,
-            2,
+            null,
+            null,
             null
         ],
         [
             32,
-            null,
-            null,
-            2
+            2,
+            4,
+            null
         ],
         [
             2,
-            null,
-            null,
-            null
+            256,
+            2,
+            4
         ]
     ],
-    "score": 1596,
+    "score": 1600,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -130,6 +130,7 @@
         "@8BitJonny",
         "@2probro",
         "@VirusLauncher",
-        "@8BitJonny"
+        "@8BitJonny",
+        "@Darkempire78"
     ]
 }
