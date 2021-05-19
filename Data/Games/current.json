@@ -3,29 +3,29 @@
         [
             null,
             null,
-            16,
-            2
+            null,
+            null
         ],
         [
             null,
             null,
-            null,
-            4
+            2,
+            2
         ],
         [
             4,
             32,
-            2,
+            16,
             4
         ],
         [
             2,
             256,
-            2,
-            4
+            4,
+            8
         ]
     ],
-    "score": 1600,
+    "score": 1612,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -132,6 +132,7 @@
         "@VirusLauncher",
         "@8BitJonny",
         "@Darkempire78",
-        "@julianYaman"
+        "@julianYaman",
+        "@Space-Turtle0"
     ]
 }
