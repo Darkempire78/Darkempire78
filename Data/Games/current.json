@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            8,
-            32,
-            2,
-            16
+            null,
+            null,
+            null,
+            2
         ],
         [
+            null,
+            null,
             2,
-            256,
+            null
+        ],
+        [
+            8,
+            32,
             16,
             null
         ],
         [
-            null,
-            null,
             4,
-            null
-        ],
-        [
-            2,
-            null,
-            null,
-            null
+            256,
+            4,
+            16
         ]
     ],
-    "score": 1652,
+    "score": 1656,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -137,6 +137,7 @@
         "@Pandicon",
         "@HazimAr",
         "@elainaaa",
-        "@mehmet-mert"
+        "@mehmet-mert",
+        "@GreepTheSheep"
     ]
 }
