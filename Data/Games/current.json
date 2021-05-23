@@ -1,7 +1,7 @@
 {
     "grid": [
         [
-            null,
+            2,
             null,
             null,
             2
@@ -9,14 +9,14 @@
         [
             null,
             null,
-            2,
-            null
+            null,
+            2
         ],
         [
+            null,
             8,
             32,
-            16,
-            null
+            16
         ],
         [
             4,
@@ -138,6 +138,7 @@
         "@HazimAr",
         "@elainaaa",
         "@mehmet-mert",
-        "@GreepTheSheep"
+        "@GreepTheSheep",
+        "@xmi666"
     ]
 }
