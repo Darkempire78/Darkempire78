@@ -4,28 +4,28 @@
             2,
             null,
             null,
-            2
+            null
         ],
         [
             null,
             null,
             null,
-            2
+            null
         ],
         [
-            null,
+            2,
             8,
             32,
-            16
+            4
         ],
         [
             4,
             256,
             4,
-            16
+            32
         ]
     ],
-    "score": 1656,
+    "score": 1692,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -139,6 +139,7 @@
         "@elainaaa",
         "@mehmet-mert",
         "@GreepTheSheep",
-        "@xmi666"
+        "@xmi666",
+        "@8BitJonny"
     ]
 }
