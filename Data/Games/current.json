@@ -13,19 +13,19 @@
             null
         ],
         [
-            2,
+            null,
             8,
             32,
             4
         ],
         [
-            4,
+            8,
             256,
             4,
             32
         ]
     ],
-    "score": 1692,
+    "score": 1704,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -140,6 +140,7 @@
         "@mehmet-mert",
         "@GreepTheSheep",
         "@xmi666",
-        "@8BitJonny"
+        "@8BitJonny",
+        "@Pandicon"
     ]
 }
