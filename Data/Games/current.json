@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            4,
-            32,
+            null,
+            null,
+            null,
+            2
+        ],
+        [
+            null,
+            null,
             8,
             2
         ],
         [
             null,
-            16,
+            32,
             256,
             32
         ],
         [
-            null,
-            null,
-            null,
-            2
-        ],
-        [
-            null,
-            null,
+            4,
+            16,
             2,
-            null
+            2
         ]
     ],
     "score": 1732,
@@ -145,6 +145,7 @@
         "@Darkempire78",
         "@Pandicon",
         "@EmperorTLM",
-        "@pieckenst"
+        "@pieckenst",
+        "@Darkempire78"
     ]
 }
