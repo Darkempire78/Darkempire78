@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            2
-        ],
-        [
-            null,
-            null,
-            8,
-            2
-        ],
-        [
-            null,
+            4,
             32,
+            8,
+            4
+        ],
+        [
+            null,
+            16,
             256,
             32
         ],
         [
-            4,
-            16,
+            null,
+            null,
             2,
             2
+        ],
+        [
+            null,
+            null,
+            2,
+            null
         ]
     ],
-    "score": 1732,
+    "score": 1736,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -146,6 +146,7 @@
         "@Pandicon",
         "@EmperorTLM",
         "@pieckenst",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@DestinyofYeet"
     ]
 }
