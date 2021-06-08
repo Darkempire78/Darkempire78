@@ -1,10 +1,10 @@
 {
     "grid": [
         [
-            null,
-            null,
             2,
-            2
+            null,
+            null,
+            4
         ],
         [
             null,
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 1740,
+    "score": 1744,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -150,6 +150,7 @@
         "@DestinyofYeet",
         "@Official-Hawks",
         "@zurgeg",
-        "@Shmalle"
+        "@Shmalle",
+        "@Pool800"
     ]
 }
