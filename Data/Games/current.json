@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            2,
             null,
             null,
-            4
+            null,
+            2
         ],
         [
             null,
             null,
             8,
-            4
+            8
         ],
         [
-            2,
+            null,
             32,
             256,
             32
         ],
         [
-            4,
+            8,
             16,
             4,
             2
         ]
     ],
-    "score": 1744,
+    "score": 1764,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -151,6 +151,7 @@
         "@Official-Hawks",
         "@zurgeg",
         "@Shmalle",
-        "@Pool800"
+        "@Pool800",
+        "@MarcinK50"
     ]
 }

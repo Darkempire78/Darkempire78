@@ -55,9 +55,9 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@Pandicon](https://github.com/Pandicon) | 3 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
 | [@Splyder](https://github.com/Splyder) | 2 |
+| [@MarcinK50](https://github.com/MarcinK50) | 2 |
 | [@SkyDonald](https://github.com/SkyDonald) | 2 |
 | [@Sellig6792](https://github.com/Sellig6792) | 2 |
-| [@ThatRemixiak](https://github.com/ThatRemixiak) | 2 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
