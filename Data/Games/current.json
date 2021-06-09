@@ -9,8 +9,8 @@
         [
             null,
             null,
-            8,
-            8
+            2,
+            16
         ],
         [
             null,
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 1764,
+    "score": 1780,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -152,6 +152,7 @@
         "@zurgeg",
         "@Shmalle",
         "@Pool800",
-        "@MarcinK50"
+        "@MarcinK50",
+        "@thomanii"
     ]
 }
