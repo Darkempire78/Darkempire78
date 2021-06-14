@@ -7,22 +7,22 @@
             4
         ],
         [
-            null,
             16,
             256,
-            16
+            16,
+            null
         ],
         [
             2,
-            null,
             4,
-            32
+            32,
+            2
         ],
         [
+            4,
             null,
             null,
-            null,
-            4
+            null
         ]
     ],
     "score": 1788,
@@ -156,6 +156,7 @@
         "@thomanii",
         "@Laar-u",
         "@Maeyr",
-        "@omxpro"
+        "@omxpro",
+        "@Darkempire78"
     ]
 }
