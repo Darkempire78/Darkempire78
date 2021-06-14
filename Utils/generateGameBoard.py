@@ -1,4 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
+import json
 
 def generateGameBoard(grid, score, bestScore):   
     
@@ -42,7 +43,13 @@ def generateGameBoard(grid, score, bestScore):
 def generateEndGameBoard(grid, score, bestScore):
     
     generateGameBoard(grid, score, bestScore)
-    gameboard = Image.open("Data/gameboard.png").convert('RGBA')
+
+    with open("config.json", "r", "utf8") as config:
+        isDarkTheme = json.loads(config.read())
+        if isDarkTheme == "dark":
+            gameboard = Image.open("Data/gameboardDark.png").convert('RGBA')
+        else:
+            gameboard = Image.open("Data/gameboard.png").convert('RGBA') 
 
     # Add the blurred filter
     gameboard = gameboard.filter(ImageFilter.BLUR)
