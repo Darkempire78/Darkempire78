@@ -3,7 +3,12 @@ import json
 
 def generateGameBoard(grid, score, bestScore):   
     
-    gameboard = Image.open("Assets/background.png").convert('RGBA')
+    with open("config.json", mode="r", encoding="utf8") as config:
+        isDarkTheme = json.loads(config.read())
+        if isDarkTheme["theme"] == "dark":
+            gameboard = Image.open("Assets/backgroundDark.png").convert('RGBA')
+        else:
+            gameboard = Image.open("Assets/background.png").convert('RGBA')
     
     # Add numbers
     for line in range(4):
@@ -43,13 +48,7 @@ def generateGameBoard(grid, score, bestScore):
 def generateEndGameBoard(grid, score, bestScore):
     
     generateGameBoard(grid, score, bestScore)
-
-    with open("config.json", "r", "utf8") as config:
-        isDarkTheme = json.loads(config.read())
-        if isDarkTheme == "dark":
-            gameboard = Image.open("Data/gameboardDark.png").convert('RGBA')
-        else:
-            gameboard = Image.open("Data/gameboard.png").convert('RGBA') 
+    gameboard = Image.open("Data/gameboard.png").convert('RGBA')
 
     # Add the blurred filter
     gameboard = gameboard.filter(ImageFilter.BLUR)
@@ -70,3 +69,30 @@ def gridToCoordinates(line, case):
     ]
 
     return coordinates[line][case]   
+
+generateGameBoard([
+        [
+            2,
+            8,
+            32,
+            4
+        ],
+        [
+            None,
+            16,
+            256,
+            16
+        ],
+        [
+            2,
+            None,
+            4,
+            32
+        ],
+        [
+            None,
+            None,
+            None,
+            4
+        ]
+    ], 5, 10)
