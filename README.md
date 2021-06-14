@@ -7,11 +7,10 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 
 <!-- Stats -->
 <details><summary><b>My stats</b></summary>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=8B948D&theme=dark">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Darkempire78&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Darkempire78&&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-   <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkempire78&hide=html,&hide_border=true&title_color=5391FE&text_color=8B948D&layout=compact&theme=dark">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Darkempire78&&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+   <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkempire78&hide=java,&hide_border=false&title_color=C9D1D9&text_color=8B948D&layout=compact&bg_color=0D1117&theme=dark">
     <!-- ![Darkempire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Darkempire78)](https://github.com/anuraghazra/github-readme-stats) -->
 </details>
 
