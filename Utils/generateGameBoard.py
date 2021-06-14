@@ -69,30 +69,3 @@ def gridToCoordinates(line, case):
     ]
 
     return coordinates[line][case]   
-
-generateGameBoard([
-        [
-            2,
-            8,
-            32,
-            4
-        ],
-        [
-            None,
-            16,
-            256,
-            16
-        ],
-        [
-            2,
-            None,
-            4,
-            32
-        ],
-        [
-            None,
-            None,
-            None,
-            4
-        ]
-    ], 5, 10)
