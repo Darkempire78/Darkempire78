@@ -13,15 +13,15 @@
             2
         ],
         [
+            null,
             8,
             32,
-            4,
-            null
+            4
         ],
         [
             2,
+            2,
             8,
-            null,
             2
         ]
     ],
@@ -161,6 +161,7 @@
         "@omxpro",
         "@kuba2k2",
         "@TheGamer456YT",
-        "@omxpro"
+        "@omxpro",
+        "@The-Fritzy"
     ]
 }
