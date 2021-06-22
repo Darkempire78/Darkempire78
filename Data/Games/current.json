@@ -13,19 +13,19 @@
             2
         ],
         [
-            null,
             8,
             32,
-            4
+            4,
+            2
         ],
         [
-            4,
-            4,
-            8,
-            2
+            16,
+            2,
+            null,
+            null
         ]
     ],
-    "score": 1816,
+    "score": 1840,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -163,6 +163,7 @@
         "@TheGamer456YT",
         "@omxpro",
         "@The-Fritzy",
-        "@7h3730B"
+        "@7h3730B",
+        "@Geographs"
     ]
 }
