@@ -47,7 +47,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@Darkempire78](https://github.com/Darkempire78) | 15 |
+| [@Darkempire78](https://github.com/Darkempire78) | 16 |
 | [@8BitJonny](https://github.com/8BitJonny) | 10 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
 | [@elias1607](https://github.com/elias1607) | 3 |

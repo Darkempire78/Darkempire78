@@ -2,9 +2,9 @@
     "grid": [
         [
             null,
+            2,
             8,
-            32,
-            null
+            32
         ],
         [
             2,
@@ -19,13 +19,13 @@
             16
         ],
         [
-            4,
-            4,
+            null,
+            8,
             16,
             2
         ]
     ],
-    "score": 1888,
+    "score": 1896,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -171,6 +171,7 @@
         "@Darkempire78",
         "@westwolfm",
         "@Predeactor",
-        "@wolf-yuan-6115"
+        "@wolf-yuan-6115",
+        "@Darkempire78"
     ]
 }
