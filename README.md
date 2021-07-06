@@ -51,12 +51,12 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@8BitJonny](https://github.com/8BitJonny) | 10 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
 | [@elias1607](https://github.com/elias1607) | 3 |
+| [@wolf-yuan-6115](https://github.com/wolf-yuan-6115) | 3 |
 | [@Pandicon](https://github.com/Pandicon) | 3 |
 | [@omxpro](https://github.com/omxpro) | 3 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
 | [@Splyder](https://github.com/Splyder) | 2 |
 | [@MarcinK50](https://github.com/MarcinK50) | 2 |
-| [@SkyDonald](https://github.com/SkyDonald) | 2 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
