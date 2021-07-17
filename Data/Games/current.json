@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            null,
+            null,
             4,
-            null,
-            null,
             32
         ],
         [
-            16,
-            8,
-            8,
+            2,
+            null,
+            32,
             2
         ],
         [
+            null,
             4,
             256,
-            16,
-            16
+            32
         ],
         [
-            2,
-            2,
+            null,
+            4,
             64,
             2
         ]
     ],
-    "score": 2024,
+    "score": 2108,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -177,6 +177,7 @@
         "@typhoon11",
         "@MrPotato374",
         "@Pandicon",
-        "@Benco11-developement"
+        "@Benco11-developement",
+        "@ConnorDoesDev"
     ]
 }
