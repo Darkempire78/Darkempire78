@@ -1,8 +1,8 @@
 {
     "grid": [
         [
-            null,
-            null,
+            4,
+            8,
             4,
             32
         ],
@@ -14,18 +14,18 @@
         ],
         [
             null,
-            4,
+            null,
             256,
             32
         ],
         [
             null,
-            4,
+            null,
             64,
             2
         ]
     ],
-    "score": 2108,
+    "score": 2120,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -178,6 +178,7 @@
         "@MrPotato374",
         "@Pandicon",
         "@Benco11-developement",
-        "@ConnorDoesDev"
+        "@ConnorDoesDev",
+        "@ali-moments"
     ]
 }
