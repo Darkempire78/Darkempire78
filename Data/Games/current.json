@@ -8,21 +8,21 @@
         ],
         [
             2,
-            null,
             32,
+            2,
             2
         ],
         [
-            null,
-            null,
             256,
-            32
+            32,
+            null,
+            null
         ],
         [
-            null,
-            null,
             64,
-            2
+            2,
+            null,
+            null
         ]
     ],
     "score": 2120,
@@ -179,6 +179,7 @@
         "@Pandicon",
         "@Benco11-developement",
         "@ConnorDoesDev",
-        "@ali-moments"
+        "@ali-moments",
+        "@Akavvi"
     ]
 }
