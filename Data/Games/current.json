@@ -8,24 +8,24 @@
         ],
         [
             2,
-            32,
+            64,
             2,
             2
         ],
         [
             256,
-            32,
+            2,
             null,
             null
         ],
         [
             64,
-            2,
             null,
-            null
+            null,
+            2
         ]
     ],
-    "score": 2120,
+    "score": 2184,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -180,6 +180,7 @@
         "@Benco11-developement",
         "@ConnorDoesDev",
         "@ali-moments",
-        "@Akavvi"
+        "@Akavvi",
+        "@ali-moments"
     ]
 }
