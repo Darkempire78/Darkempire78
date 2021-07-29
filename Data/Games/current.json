@@ -7,25 +7,25 @@
             32
         ],
         [
+            null,
             2,
             64,
-            2,
+            4
+        ],
+        [
+            null,
+            null,
+            256,
             2
         ],
         [
-            256,
             2,
             null,
-            null
-        ],
-        [
             64,
-            null,
-            null,
             2
         ]
     ],
-    "score": 2184,
+    "score": 2188,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -181,6 +181,7 @@
         "@ConnorDoesDev",
         "@ali-moments",
         "@Akavvi",
-        "@ali-moments"
+        "@ali-moments",
+        "@AstroOrbis"
     ]
 }
