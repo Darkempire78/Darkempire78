@@ -8,24 +8,24 @@
         ],
         [
             2,
-            2,
+            4,
             64,
             8
         ],
         [
             null,
-            2,
+            null,
             256,
             null
         ],
         [
             null,
-            null,
+            2,
             64,
             null
         ]
     ],
-    "score": 2200,
+    "score": 2204,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -183,6 +183,7 @@
         "@Akavvi",
         "@ali-moments",
         "@AstroOrbis",
-        "@non-bin"
+        "@non-bin",
+        "@Adib23704"
     ]
 }
