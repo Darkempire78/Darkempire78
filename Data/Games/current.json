@@ -14,18 +14,18 @@
         ],
         [
             256,
-            4,
-            4,
-            8
+            16,
+            null,
+            null
         ],
         [
             2,
-            64,
-            64,
-            4
+            128,
+            4,
+            2
         ]
     ],
-    "score": 2204,
+    "score": 2356,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -186,6 +186,7 @@
         "@non-bin",
         "@Adib23704",
         "@avy9999",
-        "@illiakozey"
+        "@illiakozey",
+        "@ethanonweller"
     ]
 }
