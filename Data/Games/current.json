@@ -2,30 +2,30 @@
     "grid": [
         [
             4,
-            null,
-            null,
-            null
-        ],
-        [
-            2,
             8,
             2,
             32
         ],
         [
-            256,
+            2,
             16,
+            4,
+            4
+        ],
+        [
+            256,
+            128,
             null,
-            2
+            null
         ],
         [
             2,
-            128,
-            4,
+            null,
+            null,
             2
         ]
     ],
-    "score": 2356,
+    "score": 2360,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -188,6 +188,7 @@
         "@avy9999",
         "@illiakozey",
         "@ethanonweller",
-        "@unadjusted"
+        "@unadjusted",
+        "@pieckenst"
     ]
 }
