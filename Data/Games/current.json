@@ -9,8 +9,8 @@
         [
             2,
             16,
-            4,
-            4
+            8,
+            null
         ],
         [
             256,
@@ -19,13 +19,13 @@
             null
         ],
         [
-            2,
+            4,
             null,
             null,
             2
         ]
     ],
-    "score": 2360,
+    "score": 2372,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -189,6 +189,7 @@
         "@illiakozey",
         "@ethanonweller",
         "@unadjusted",
-        "@pieckenst"
+        "@pieckenst",
+        "@pfevrety"
     ]
 }
