@@ -1,10 +1,10 @@
 {
     "grid": [
         [
-            8,
-            8,
+            16,
             2,
-            32
+            32,
+            2
         ],
         [
             2,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 2388,
+    "score": 2404,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -195,6 +195,7 @@
         "@mytja",
         "@elbkr",
         "@Sellig6792",
-        "@nobody48sheldor"
+        "@nobody48sheldor",
+        "@sonicshin"
     ]
 }
