@@ -2,27 +2,27 @@
     "grid": [
         [
             8,
-            null,
-            null,
-            null
-        ],
-        [
-            2,
             8,
             2,
-            null
-        ],
-        [
-            256,
-            16,
-            4,
             32
         ],
         [
+            2,
+            16,
             4,
+            2
+        ],
+        [
+            256,
             128,
             8,
-            2
+            null
+        ],
+        [
+            4,
+            2,
+            null,
+            null
         ]
     ],
     "score": 2388,
@@ -194,6 +194,7 @@
         "@pewpasta",
         "@mytja",
         "@elbkr",
-        "@Sellig6792"
+        "@Sellig6792",
+        "@nobody48sheldor"
     ]
 }
