@@ -3,29 +3,29 @@
         [
             16,
             2,
-            32,
-            2
+            null,
+            null
         ],
         [
             2,
             16,
-            4,
+            32,
             2
         ],
         [
             256,
             128,
-            8,
+            4,
             null
         ],
         [
             4,
             2,
-            null,
-            null
+            8,
+            4
         ]
     ],
-    "score": 2404,
+    "score": 2408,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -196,6 +196,7 @@
         "@elbkr",
         "@Sellig6792",
         "@nobody48sheldor",
-        "@sonicshin"
+        "@sonicshin",
+        "@TheRealGeoDash2019"
     ]
 }
