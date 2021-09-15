@@ -3,26 +3,26 @@
         [
             16,
             2,
-            null,
-            null
-        ],
-        [
-            2,
-            16,
             32,
             2
         ],
         [
+            2,
+            16,
+            4,
+            4
+        ],
+        [
             256,
             128,
-            4,
+            8,
             null
         ],
         [
             4,
             2,
-            8,
-            4
+            null,
+            2
         ]
     ],
     "score": 2408,
@@ -197,6 +197,7 @@
         "@Sellig6792",
         "@nobody48sheldor",
         "@sonicshin",
-        "@TheRealGeoDash2019"
+        "@TheRealGeoDash2019",
+        "@Atom345"
     ]
 }
