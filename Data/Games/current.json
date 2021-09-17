@@ -7,10 +7,10 @@
             2
         ],
         [
-            2,
             16,
-            4,
-            4
+            8,
+            2,
+            null
         ],
         [
             256,
@@ -19,13 +19,13 @@
             null
         ],
         [
-            4,
-            2,
+            8,
             null,
-            2
+            null,
+            null
         ]
     ],
-    "score": 2408,
+    "score": 2432,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -198,6 +198,7 @@
         "@nobody48sheldor",
         "@sonicshin",
         "@TheRealGeoDash2019",
-        "@Atom345"
+        "@Atom345",
+        "@lenicyl"
     ]
 }
