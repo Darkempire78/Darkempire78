@@ -2,15 +2,15 @@
     "grid": [
         [
             null,
-            2,
+            null,
             null,
             null
         ],
         [
             32,
-            2,
+            4,
             32,
-            null
+            2
         ],
         [
             256,
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 2464,
+    "score": 2468,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -200,6 +200,7 @@
         "@TheRealGeoDash2019",
         "@Atom345",
         "@lenicyl",
-        "@dxleak"
+        "@dxleak",
+        "@clynt707"
     ]
 }
