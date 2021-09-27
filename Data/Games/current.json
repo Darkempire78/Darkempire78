@@ -1,16 +1,16 @@
 {
     "grid": [
         [
-            null,
-            null,
             2,
-            null
+            null,
+            null,
+            2
         ],
         [
+            null,
             32,
             4,
-            32,
-            null
+            32
         ],
         [
             256,
@@ -203,6 +203,7 @@
         "@dxleak",
         "@clynt707",
         "@Kappug",
-        "@Undoniable"
+        "@Undoniable",
+        "@Kopamed"
     ]
 }
