@@ -1,28 +1,28 @@
 {
     "grid": [
         [
+            null,
+            null,
+            2,
+            null
+        ],
+        [
             32,
             4,
             32,
-            4
+            null
         ],
         [
             256,
             8,
             2,
-            2
+            4
         ],
         [
             8,
             128,
             8,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
+            2
         ]
     ],
     "score": 2472,
@@ -202,6 +202,7 @@
         "@lenicyl",
         "@dxleak",
         "@clynt707",
-        "@Kappug"
+        "@Kappug",
+        "@Undoniable"
     ]
 }
