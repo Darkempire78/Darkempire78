@@ -1,16 +1,16 @@
 {
     "grid": [
         [
+            8,
+            null,
             2,
-            null,
-            null,
-            2
+            null
         ],
         [
-            null,
             32,
             4,
-            32
+            32,
+            null
         ],
         [
             256,
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 2472,
+    "score": 2488,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -204,6 +204,7 @@
         "@clynt707",
         "@Kappug",
         "@Undoniable",
-        "@Kopamed"
+        "@Kopamed",
+        "@felixsam359"
     ]
 }
