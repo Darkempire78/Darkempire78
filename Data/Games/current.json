@@ -13,19 +13,19 @@
             2
         ],
         [
+            null,
             256,
             128,
-            2,
-            2
+            4
         ],
         [
-            8,
             null,
-            8,
-            null
+            4,
+            null,
+            16
         ]
     ],
-    "score": 2488,
+    "score": 2508,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -206,6 +206,7 @@
         "@Undoniable",
         "@Kopamed",
         "@felixsam359",
-        "@NotTheEnclave"
+        "@NotTheEnclave",
+        "@leogopal"
     ]
 }
