@@ -13,7 +13,7 @@
             2
         ],
         [
-            null,
+            2,
             256,
             128,
             4
@@ -207,6 +207,7 @@
         "@Kopamed",
         "@felixsam359",
         "@NotTheEnclave",
-        "@leogopal"
+        "@leogopal",
+        "@nayzu"
     ]
 }
