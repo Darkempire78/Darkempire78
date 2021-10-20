@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            4,
+            null,
             4,
             2,
+            4
+        ],
+        [
+            4,
+            16,
+            32,
             8
         ],
         [
             32,
-            16,
-            32,
+            256,
+            128,
             4
         ],
         [
-            2,
-            256,
-            128,
-            16
-        ],
-        [
-            2,
+            4,
             4,
             2,
-            null
+            16
         ]
     ],
-    "score": 2540,
+    "score": 2544,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -213,6 +213,7 @@
         "@callumbash",
         "@DuckCute2831",
         "@mamamia5x",
-        "@DeveloperEnder"
+        "@DeveloperEnder",
+        "@Pandicon"
     ]
 }
