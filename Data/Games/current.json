@@ -3,8 +3,8 @@
         [
             null,
             2,
-            2,
-            null
+            null,
+            4
         ],
         [
             8,
@@ -25,7 +25,7 @@
             4
         ]
     ],
-    "score": 2584,
+    "score": 2588,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -216,6 +216,7 @@
         "@DeveloperEnder",
         "@Pandicon",
         "@DeveloperEnder",
-        "@pahholek"
+        "@pahholek",
+        "@thomanii"
     ]
 }
