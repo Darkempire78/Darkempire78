@@ -1,10 +1,10 @@
 {
     "grid": [
         [
+            null,
             8,
             2,
-            4,
-            4
+            8
         ],
         [
             32,
@@ -20,12 +20,12 @@
         ],
         [
             2,
+            2,
             16,
-            null,
             4
         ]
     ],
-    "score": 2588,
+    "score": 2596,
     "bestScore": 0,
     "moves": [
         "@Darkempire78",
@@ -218,6 +218,7 @@
         "@DeveloperEnder",
         "@pahholek",
         "@thomanii",
-        "@DeveloperEnder"
+        "@DeveloperEnder",
+        "@pahholek"
     ]
 }
