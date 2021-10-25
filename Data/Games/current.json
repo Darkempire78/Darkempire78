@@ -1,27 +1,27 @@
 {
     "grid": [
         [
-            null,
+            8,
             2,
-            null,
+            4,
             4
         ],
         [
-            8,
+            32,
             16,
-            4,
+            32,
             2
         ],
         [
-            32,
+            2,
             256,
-            32,
+            128,
             8
         ],
         [
             2,
             16,
-            128,
+            null,
             4
         ]
     ],
@@ -217,6 +217,7 @@
         "@Pandicon",
         "@DeveloperEnder",
         "@pahholek",
-        "@thomanii"
+        "@thomanii",
+        "@DeveloperEnder"
     ]
 }

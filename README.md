@@ -55,8 +55,8 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@Sellig6792](https://github.com/Sellig6792) | 3 |
 | [@wolf-yuan-6115](https://github.com/wolf-yuan-6115) | 3 |
 | [@omxpro](https://github.com/omxpro) | 3 |
+| [@DeveloperEnder](https://github.com/DeveloperEnder) | 3 |
 | [@Lucas-LeBodo](https://github.com/Lucas-LeBodo) | 2 |
-| [@Benco11-developement](https://github.com/Benco11-developement) | 2 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
