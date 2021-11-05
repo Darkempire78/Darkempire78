@@ -1,26 +1,26 @@
 {
     "grid": [
         [
-            32,
-            8,
+            null,
+            4,
             32,
             8
         ],
         [
-            4,
-            16,
+            32,
+            8,
             128,
             2
         ],
         [
-            2,
-            256,
+            4,
+            16,
             4,
             16
         ],
         [
-            null,
-            null,
+            2,
+            256,
             2,
             4
         ]
@@ -223,6 +223,7 @@
         "@Henryws",
         "@Pandicon",
         "@unadjusted",
-        "@HerbeMalveillante"
+        "@HerbeMalveillante",
+        "@Zyztem"
     ]
 }
