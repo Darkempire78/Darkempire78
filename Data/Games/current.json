@@ -3,26 +3,26 @@
         [
             null,
             4,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
             4,
             2
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            4
         ]
     ],
     "score": 0,
@@ -30,6 +30,7 @@
     "moves": [
         "@Lebyy",
         "@Darkempire78",
-        "@zurgeg"
+        "@zurgeg",
+        "@sweqtyy"
     ]
 }
