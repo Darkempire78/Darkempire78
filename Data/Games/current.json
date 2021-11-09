@@ -10,24 +10,25 @@
             null,
             null,
             null,
+            null
+        ],
+        [
+            null,
+            null,
+            4,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
             2
-        ],
-        [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
         ]
     ],
     "score": 0,
     "bestScore": 2632,
     "moves": [
-        "@Lebyy"
+        "@Lebyy",
+        "@Darkempire78"
     ]
 }
