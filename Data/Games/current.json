@@ -2,6 +2,12 @@
     "grid": [
         [
             null,
+            4,
+            null,
+            null
+        ],
+        [
+            null,
             null,
             null,
             null
@@ -16,12 +22,6 @@
             null,
             null,
             4,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
             2
         ]
     ],
@@ -29,6 +29,7 @@
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
-        "@Darkempire78"
+        "@Darkempire78",
+        "@zurgeg"
     ]
 }
