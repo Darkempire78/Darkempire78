@@ -1,14 +1,8 @@
 {
     "grid": [
         [
-            null,
-            4,
-            4,
-            2
-        ],
-        [
-            null,
-            null,
+            8,
+            2,
             null,
             null
         ],
@@ -20,17 +14,24 @@
         ],
         [
             null,
+            2,
+            null,
+            null
+        ],
+        [
+            4,
             null,
             null,
-            4
+            null
         ]
     ],
-    "score": 0,
+    "score": 8,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
         "@Darkempire78",
         "@zurgeg",
-        "@sweqtyy"
+        "@sweqtyy",
+        "@pahholek"
     ]
 }
