@@ -3,7 +3,7 @@
         [
             null,
             null,
-            null,
+            4,
             null
         ],
         [
@@ -14,18 +14,18 @@
         ],
         [
             8,
-            null,
             2,
+            null,
             null
         ],
         [
-            4,
-            4,
+            8,
+            null,
             null,
             null
         ]
     ],
-    "score": 12,
+    "score": 20,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -33,6 +33,7 @@
         "@zurgeg",
         "@sweqtyy",
         "@pahholek",
-        "@RJRP44"
+        "@RJRP44",
+        "@sweqtyy"
     ]
 }
