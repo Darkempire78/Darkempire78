@@ -2,9 +2,9 @@
     "grid": [
         [
             4,
+            2,
             null,
-            null,
-            null
+            2
         ],
         [
             2,
@@ -13,19 +13,19 @@
             2
         ],
         [
-            8,
-            2,
+            16,
+            null,
             null,
             null
         ],
         [
-            8,
+            null,
             null,
             null,
             null
         ]
     ],
-    "score": 20,
+    "score": 36,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -36,6 +36,7 @@
         "@RJRP44",
         "@sweqtyy",
         "@GEN0C1DE",
-        "@Rapunzegene"
+        "@Rapunzegene",
+        "@callumbash"
     ]
 }
