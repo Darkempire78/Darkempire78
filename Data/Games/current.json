@@ -1,28 +1,28 @@
 {
     "grid": [
         [
+            4,
             null,
             null,
-            null,
-            4
+            null
         ],
         [
-            null,
+            2,
             null,
             null,
             2
         ],
         [
-            null,
-            null,
             8,
-            2
+            2,
+            null,
+            null
         ],
         [
+            8,
             null,
             null,
-            null,
-            8
+            null
         ]
     ],
     "score": 20,
@@ -35,6 +35,7 @@
         "@pahholek",
         "@RJRP44",
         "@sweqtyy",
-        "@GEN0C1DE"
+        "@GEN0C1DE",
+        "@Rapunzegene"
     ]
 }
