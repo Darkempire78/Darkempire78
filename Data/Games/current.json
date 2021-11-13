@@ -4,19 +4,19 @@
             4,
             2,
             null,
-            2
+            4
         ],
         [
             2,
             null,
             null,
-            2
+            null
         ],
         [
             16,
             null,
             null,
-            null
+            2
         ],
         [
             null,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 36,
+    "score": 40,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -37,6 +37,7 @@
         "@sweqtyy",
         "@GEN0C1DE",
         "@Rapunzegene",
-        "@callumbash"
+        "@callumbash",
+        "@jstan425"
     ]
 }
