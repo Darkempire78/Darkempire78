@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            null,
+            2,
             4,
-            2,
-            4
+            4,
+            8
         ],
         [
-            null,
-            null,
             2,
-            4
-        ],
-        [
-            null,
             null,
             16,
             2
         ],
         [
-            2,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
             null,
             null,
             null
         ]
     ],
-    "score": 40,
+    "score": 52,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -40,6 +40,7 @@
         "@callumbash",
         "@jstan425",
         "@Pandicon",
-        "@manoger"
+        "@manoger",
+        "@kdev"
     ]
 }
