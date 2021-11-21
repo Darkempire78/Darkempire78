@@ -1,12 +1,6 @@
 {
     "grid": [
         [
-            8,
-            32,
-            2,
-            null
-        ],
-        [
             null,
             null,
             null,
@@ -23,6 +17,12 @@
             null,
             null,
             null
+        ],
+        [
+            8,
+            32,
+            2,
+            2
         ]
     ],
     "score": 120,
@@ -43,6 +43,7 @@
         "@manoger",
         "@kdev",
         "@Pandicon",
-        "@wnfo"
+        "@wnfo",
+        "@zurgeg"
     ]
 }
