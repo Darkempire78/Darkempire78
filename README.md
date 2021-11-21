@@ -52,9 +52,9 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@elias1607](https://github.com/elias1607) | 3 |
 | [@Sellig6792](https://github.com/Sellig6792) | 3 |
 | [@wolf-yuan-6115](https://github.com/wolf-yuan-6115) | 3 |
+| [@pieckenst](https://github.com/pieckenst) | 3 |
 | [@zurgeg](https://github.com/zurgeg) | 3 |
 | [@omxpro](https://github.com/omxpro) | 3 |
-| [@DeveloperEnder](https://github.com/DeveloperEnder) | 3 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
