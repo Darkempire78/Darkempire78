@@ -13,19 +13,19 @@
             null
         ],
         [
-            null,
-            null,
             2,
+            null,
+            null,
             4
         ],
         [
             8,
             32,
-            2,
+            4,
             2
         ]
     ],
-    "score": 124,
+    "score": 128,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -46,6 +46,7 @@
         "@wnfo",
         "@zurgeg",
         "@pieckenst",
-        "@zurgeg"
+        "@zurgeg",
+        "@Undoniable"
     ]
 }
