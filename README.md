@@ -47,7 +47,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 |---------------|:---------:|
 | [@Darkempire78](https://github.com/Darkempire78) | 17 |
 | [@8BitJonny](https://github.com/8BitJonny) | 10 |
-| [@Pandicon](https://github.com/Pandicon) | 8 |
+| [@Pandicon](https://github.com/Pandicon) | 9 |
 | [@zurgeg](https://github.com/zurgeg) | 4 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
 | [@elias1607](https://github.com/elias1607) | 3 |
