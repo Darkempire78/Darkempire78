@@ -3,12 +3,12 @@
         [
             null,
             null,
-            null,
+            2,
             null
         ],
         [
-            2,
-            2,
+            4,
+            null,
             null,
             null
         ],
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 184,
+    "score": 188,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -55,6 +55,7 @@
         "@andalonga",
         "@Pandicon",
         "@andalonga",
-        "@Pandicon"
+        "@Pandicon",
+        "@andalonga"
     ]
 }
