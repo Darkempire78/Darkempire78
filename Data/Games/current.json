@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            null,
-            null,
+            4,
+            32,
             2,
             null
         ],
         [
-            4,
-            null,
-            null,
-            null
-        ],
-        [
-            8,
-            null,
-            null,
-            null
-        ],
-        [
-            8,
-            32,
             16,
+            null,
+            16,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            2,
             null
         ]
     ],
-    "score": 188,
+    "score": 204,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -56,6 +56,7 @@
         "@Pandicon",
         "@andalonga",
         "@Pandicon",
-        "@andalonga"
+        "@andalonga",
+        "@Pandicon"
     ]
 }
