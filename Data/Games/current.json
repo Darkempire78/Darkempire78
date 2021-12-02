@@ -7,25 +7,25 @@
             null
         ],
         [
-            16,
-            null,
-            16,
-            null
-        ],
-        [
-            null,
+            32,
             null,
             null,
             null
         ],
         [
             null,
+            null,
+            null,
+            null
+        ],
+        [
+            2,
             null,
             2,
             null
         ]
     ],
-    "score": 204,
+    "score": 236,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -57,6 +57,7 @@
         "@andalonga",
         "@Pandicon",
         "@andalonga",
-        "@Pandicon"
+        "@Pandicon",
+        "@PanVrut"
     ]
 }
