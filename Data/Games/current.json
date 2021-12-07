@@ -3,14 +3,14 @@
         [
             4,
             64,
-            2,
-            2
+            4,
+            null
         ],
         [
             2,
             null,
             null,
-            null
+            4
         ],
         [
             4,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 304,
+    "score": 308,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -61,6 +61,7 @@
         "@PanVrut",
         "@Pandicon",
         "@andalonga",
-        "@Pandicon"
+        "@Pandicon",
+        "@matttMP"
     ]
 }
