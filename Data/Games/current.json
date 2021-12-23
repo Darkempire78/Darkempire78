@@ -3,8 +3,8 @@
         [
             4,
             64,
-            4,
-            4
+            8,
+            null
         ],
         [
             2,
@@ -22,10 +22,10 @@
             2,
             null,
             null,
-            null
+            2
         ]
     ],
-    "score": 308,
+    "score": 316,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -64,6 +64,7 @@
         "@Pandicon",
         "@matttMP",
         "@Necrozma200",
-        "@maxdesalle"
+        "@maxdesalle",
+        "@xAtsuUC"
     ]
 }
