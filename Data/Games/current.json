@@ -4,28 +4,28 @@
             4,
             64,
             8,
-            null
-        ],
-        [
-            2,
-            4,
-            2,
             2
         ],
         [
+            2,
             4,
-            null,
-            null,
+            2,
             null
         ],
         [
-            4,
+            8,
+            null,
+            null,
+            2
+        ],
+        [
+            null,
             null,
             null,
             null
         ]
     ],
-    "score": 320,
+    "score": 328,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -66,6 +66,7 @@
         "@Necrozma200",
         "@maxdesalle",
         "@xAtsuUC",
-        "@Existential-nonce"
+        "@Existential-nonce",
+        "@9ggy"
     ]
 }
