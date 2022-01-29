@@ -7,14 +7,14 @@
             2
         ],
         [
-            2,
-            2,
-            4,
+            null,
+            null,
+            8,
             2
         ],
         [
             null,
-            null,
+            2,
             8,
             2
         ],
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 328,
+    "score": 340,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -68,6 +68,7 @@
         "@xAtsuUC",
         "@Existential-nonce",
         "@9ggy",
-        "@Kopamed"
+        "@Kopamed",
+        "@Chuugummy"
     ]
 }
