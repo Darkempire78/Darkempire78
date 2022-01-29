@@ -3,14 +3,8 @@
         [
             4,
             64,
-            8,
-            2
-        ],
-        [
-            null,
-            null,
-            8,
-            2
+            16,
+            4
         ],
         [
             null,
@@ -23,9 +17,15 @@
             null,
             null,
             null
+        ],
+        [
+            null,
+            2,
+            null,
+            null
         ]
     ],
-    "score": 340,
+    "score": 360,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -69,6 +69,7 @@
         "@Existential-nonce",
         "@9ggy",
         "@Kopamed",
-        "@Chuugummy"
+        "@Chuugummy",
+        "@Taz-Codes"
     ]
 }
