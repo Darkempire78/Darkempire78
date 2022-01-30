@@ -1,6 +1,18 @@
 {
     "grid": [
         [
+            null,
+            null,
+            2,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
             4,
             64,
             16,
@@ -11,18 +23,6 @@
             4,
             8,
             2
-        ],
-        [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
         ]
     ],
     "score": 364,
@@ -71,6 +71,7 @@
         "@Kopamed",
         "@Chuugummy",
         "@Taz-Codes",
-        "@Excalizan"
+        "@Excalizan",
+        "@Waves-rgb"
     ]
 }
