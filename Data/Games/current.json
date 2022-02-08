@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
-            null,
-            2,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
             4,
             64,
-            16,
+            2,
             4
         ],
         [
             2,
             4,
-            8,
+            16,
             2
+        ],
+        [
+            null,
+            2,
+            8,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
         ]
     ],
     "score": 364,
@@ -72,6 +72,7 @@
         "@Chuugummy",
         "@Taz-Codes",
         "@Excalizan",
-        "@Waves-rgb"
+        "@Waves-rgb",
+        "@DJJW26"
     ]
 }
