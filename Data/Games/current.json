@@ -1,20 +1,20 @@
 {
     "grid": [
         [
-            4,
+            8,
             64,
             2,
             4
         ],
         [
-            2,
-            4,
+            null,
+            8,
             16,
             2
         ],
         [
+            null,
             2,
-            4,
             2,
             8
         ],
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 364,
+    "score": 384,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -76,6 +76,7 @@
         "@DJJW26",
         "@INTROVERTenow",
         "@prakarsh17",
-        "@ARyOtaRe"
+        "@ARyOtaRe",
+        "@DTheIcyDragon"
     ]
 }
