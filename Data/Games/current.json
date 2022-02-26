@@ -1,27 +1,27 @@
 {
     "grid": [
         [
-            16,
+            null,
             64,
-            8,
-            4
+            null,
+            null
+        ],
+        [
+            16,
+            16,
+            2,
+            null
         ],
         [
             4,
-            16,
-            null,
-            null
-        ],
-        [
-            2,
             8,
             null,
-            null
+            4
         ],
         [
-            null,
             2,
-            null,
+            2,
+            8,
             2
         ]
     ],
@@ -79,6 +79,7 @@
         "@ARyOtaRe",
         "@DTheIcyDragon",
         "@Rqver",
-        "@DTheIcyDragon"
+        "@DTheIcyDragon",
+        "@DO-Ui"
     ]
 }
