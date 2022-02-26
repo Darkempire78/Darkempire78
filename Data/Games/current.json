@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            8,
+            16,
             64,
-            2,
+            8,
             4
         ],
         [
-            8,
-            16,
-            2,
-            null
-        ],
-        [
             4,
-            8,
+            16,
             null,
             null
         ],
         [
             2,
-            2,
+            8,
             null,
             null
+        ],
+        [
+            null,
+            2,
+            null,
+            2
         ]
     ],
-    "score": 388,
+    "score": 420,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -78,6 +78,7 @@
         "@prakarsh17",
         "@ARyOtaRe",
         "@DTheIcyDragon",
-        "@Rqver"
+        "@Rqver",
+        "@DTheIcyDragon"
     ]
 }
