@@ -7,25 +7,25 @@
             null
         ],
         [
-            16,
-            16,
+            32,
+            null,
             null,
             null
         ],
         [
             4,
-            8,
-            8,
+            16,
+            2,
             null
         ],
         [
-            2,
-            2,
-            4,
-            8
+            16,
+            null,
+            null,
+            null
         ]
     ],
-    "score": 436,
+    "score": 512,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -82,6 +82,7 @@
         "@DTheIcyDragon",
         "@DO-Ui",
         "@mattfritsch",
-        "@Stef-00012"
+        "@Stef-00012",
+        "@cdiesen"
     ]
 }
