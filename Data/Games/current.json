@@ -2,30 +2,30 @@
     "grid": [
         [
             2,
-            null,
-            null,
+            64,
+            4,
             null
         ],
         [
             32,
-            null,
+            16,
             null,
             null
         ],
         [
             4,
-            64,
+            null,
             2,
             null
         ],
         [
             16,
-            16,
-            2,
+            null,
+            null,
             null
         ]
     ],
-    "score": 512,
+    "score": 516,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -84,6 +84,7 @@
         "@mattfritsch",
         "@Stef-00012",
         "@cdiesen",
-        "@Kopamed"
+        "@Kopamed",
+        "@MaskDuck"
     ]
 }
