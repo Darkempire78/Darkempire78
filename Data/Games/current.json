@@ -1,10 +1,10 @@
 {
     "grid": [
         [
+            4,
             2,
             null,
-            null,
-            2
+            null
         ],
         [
             32,
@@ -19,13 +19,13 @@
             null
         ],
         [
-            16,
-            16,
+            32,
             2,
+            null,
             null
         ]
     ],
-    "score": 516,
+    "score": 552,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -86,6 +86,7 @@
         "@cdiesen",
         "@Kopamed",
         "@MaskDuck",
-        "@nobody48sheldor"
+        "@nobody48sheldor",
+        "@Ardakaniz"
     ]
 }
