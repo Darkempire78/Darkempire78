@@ -1,28 +1,28 @@
 {
     "grid": [
         [
+            null,
+            null,
             4,
-            2,
-            null,
-            null
+            2
         ],
         [
-            32,
             null,
             null,
-            null
+            null,
+            32
         ],
         [
+            null,
             4,
             64,
-            4,
-            null
+            4
         ],
         [
-            32,
-            2,
             null,
-            null
+            2,
+            32,
+            2
         ]
     ],
     "score": 552,
@@ -87,6 +87,7 @@
         "@Kopamed",
         "@MaskDuck",
         "@nobody48sheldor",
-        "@Ardakaniz"
+        "@Ardakaniz",
+        "@unadjusted"
     ]
 }
