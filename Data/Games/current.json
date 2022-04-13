@@ -2,8 +2,8 @@
     "grid": [
         [
             null,
-            4,
-            4,
+            2,
+            8,
             2
         ],
         [
@@ -13,8 +13,8 @@
             32
         ],
         [
-            2,
             null,
+            2,
             32,
             4
         ],
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 552,
+    "score": 560,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -89,6 +89,7 @@
         "@nobody48sheldor",
         "@Ardakaniz",
         "@unadjusted",
-        "@ShrimantaGarain"
+        "@ShrimantaGarain",
+        "@ae7er"
     ]
 }
