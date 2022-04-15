@@ -2,30 +2,30 @@
     "grid": [
         [
             null,
-            2,
-            8,
+            null,
+            null,
             2
         ],
         [
             null,
-            2,
-            64,
+            null,
+            8,
             32
         ],
         [
             null,
             2,
-            32,
+            64,
             4
         ],
         [
-            null,
-            null,
-            null,
+            2,
+            4,
+            32,
             2
         ]
     ],
-    "score": 560,
+    "score": 564,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -90,6 +90,7 @@
         "@Ardakaniz",
         "@unadjusted",
         "@ShrimantaGarain",
-        "@ae7er"
+        "@ae7er",
+        "@smintf"
     ]
 }
