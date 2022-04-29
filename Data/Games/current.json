@@ -8,13 +8,13 @@
         ],
         [
             null,
-            null,
+            2,
             8,
             32
         ],
         [
-            2,
-            2,
+            null,
+            4,
             64,
             4
         ],
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 576,
+    "score": 580,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -93,6 +93,7 @@
         "@ae7er",
         "@smintf",
         "@HugoMskn",
-        "@fily-gif"
+        "@fily-gif",
+        "@Waves-rgb"
     ]
 }
