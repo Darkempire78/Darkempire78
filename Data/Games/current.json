@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            16,
             2,
-            null,
-            null,
+            8,
             2
         ],
         [
             null,
-            null,
             8,
+            64,
             32
         ],
         [
-            2,
-            2,
-            64,
+            null,
+            null,
+            32,
             4
         ],
         [
-            8,
-            8,
-            32,
+            2,
+            null,
+            null,
             2
         ]
     ],
-    "score": 588,
+    "score": 620,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -96,6 +96,7 @@
         "@fily-gif",
         "@Waves-rgb",
         "@wolf-yuan-6115",
-        "@Nathack-dev"
+        "@Nathack-dev",
+        "@SachaTending"
     ]
 }
