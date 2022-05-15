@@ -7,22 +7,22 @@
             2
         ],
         [
+            2,
             8,
             64,
-            32,
-            null
+            32
         ],
         [
+            null,
             32,
             4,
-            2,
-            null
+            2
         ],
         [
-            4,
             null,
             null,
-            null
+            null,
+            4
         ]
     ],
     "score": 624,
@@ -98,6 +98,7 @@
         "@wolf-yuan-6115",
         "@Nathack-dev",
         "@SachaTending",
-        "@FusionSid"
+        "@FusionSid",
+        "@ArjixWasTaken"
     ]
 }
