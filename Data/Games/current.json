@@ -7,25 +7,25 @@
             2
         ],
         [
-            2,
             8,
             64,
-            32
+            4,
+            null
         ],
         [
-            null,
             32,
             4,
-            2
+            2,
+            null
         ],
         [
+            4,
             null,
-            null,
-            null,
-            4
+            2,
+            null
         ]
     ],
-    "score": 624,
+    "score": 628,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -99,6 +99,7 @@
         "@Nathack-dev",
         "@SachaTending",
         "@FusionSid",
-        "@ArjixWasTaken"
+        "@ArjixWasTaken",
+        "@Leogendra"
     ]
 }
