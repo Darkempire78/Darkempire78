@@ -10,7 +10,7 @@
             8,
             2,
             null,
-            null
+            2
         ],
         [
             32,
@@ -19,13 +19,13 @@
             null
         ],
         [
-            4,
-            4,
+            8,
             16,
-            2
+            2,
+            null
         ]
     ],
-    "score": 656,
+    "score": 664,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -101,6 +101,7 @@
         "@FusionSid",
         "@ArjixWasTaken",
         "@Leogendra",
-        "@CharlieS1103"
+        "@CharlieS1103",
+        "@ohitstom"
     ]
 }
