@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            16,
             null,
             null,
-            null
+            null,
+            16
         ],
         [
-            8,
             2,
             null,
+            8,
+            4
+        ],
+        [
+            null,
+            32,
+            64,
             2
         ],
         [
-            32,
-            64,
-            2,
-            null
-        ],
-        [
+            null,
             8,
             16,
-            2,
-            null
+            2
         ]
     ],
-    "score": 664,
+    "score": 668,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -102,6 +102,7 @@
         "@ArjixWasTaken",
         "@Leogendra",
         "@CharlieS1103",
-        "@ohitstom"
+        "@ohitstom",
+        "@Nathack-dev"
     ]
 }
