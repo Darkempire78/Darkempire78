@@ -4,28 +4,28 @@
             null,
             null,
             null,
-            16
+            2
         ],
         [
-            2,
+            null,
             null,
             8,
-            4
+            null
         ],
         [
             null,
             32,
             64,
-            2
+            16
         ],
         [
-            null,
+            2,
             8,
             16,
-            2
+            8
         ]
     ],
-    "score": 668,
+    "score": 680,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -103,6 +103,7 @@
         "@Leogendra",
         "@CharlieS1103",
         "@ohitstom",
-        "@Nathack-dev"
+        "@Nathack-dev",
+        "@joshi1999"
     ]
 }
