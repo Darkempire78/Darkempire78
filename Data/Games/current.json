@@ -4,13 +4,13 @@
             2,
             null,
             null,
-            null
+            2
         ],
         [
-            null,
             32,
             8,
-            4
+            4,
+            null
         ],
         [
             4,
@@ -19,13 +19,13 @@
             2
         ],
         [
-            2,
             4,
             32,
-            8
+            4,
+            null
         ]
     ],
-    "score": 716,
+    "score": 720,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -109,6 +109,7 @@
         "@hmhmmhmhuh",
         "@HeySkidee",
         "@IridiumIR",
-        "@Expzr"
+        "@Expzr",
+        "@GreepTheSheep"
     ]
 }
