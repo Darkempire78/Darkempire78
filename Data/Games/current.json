@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            null,
             2,
             null,
+            null
+        ],
+        [
+            2,
             null,
-            2
-        ],
-        [
-            32,
-            8,
             4,
             null
         ],
         [
-            4,
-            8,
+            32,
+            16,
             64,
-            2
+            null
         ],
         [
-            4,
+            8,
             32,
             4,
-            null
+            4
         ]
     ],
-    "score": 720,
+    "score": 748,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -110,6 +110,7 @@
         "@HeySkidee",
         "@IridiumIR",
         "@Expzr",
-        "@GreepTheSheep"
+        "@GreepTheSheep",
+        "@kitty14956590"
     ]
 }
