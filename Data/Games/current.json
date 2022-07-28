@@ -1,16 +1,16 @@
 {
     "grid": [
         [
-            null,
+            2,
             null,
             null,
             null
         ],
         [
-            4,
-            4,
+            8,
+            2,
             null,
-            2
+            null
         ],
         [
             32,
@@ -25,7 +25,7 @@
             4
         ]
     ],
-    "score": 760,
+    "score": 768,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -113,6 +113,7 @@
         "@GreepTheSheep",
         "@kitty14956590",
         "@APN-Pucky",
-        "@Setlakwe"
+        "@Setlakwe",
+        "@ImSwampy"
     ]
 }
