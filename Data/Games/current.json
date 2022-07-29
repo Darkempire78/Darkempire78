@@ -2,27 +2,27 @@
     "grid": [
         [
             2,
-            null,
-            null,
-            null
-        ],
-        [
-            8,
             2,
-            null,
-            null
-        ],
-        [
-            32,
-            16,
             64,
             2
         ],
         [
             8,
-            32,
+            16,
             8,
             4
+        ],
+        [
+            32,
+            32,
+            null,
+            null
+        ],
+        [
+            8,
+            null,
+            2,
+            null
         ]
     ],
     "score": 768,
@@ -115,6 +115,7 @@
         "@APN-Pucky",
         "@Setlakwe",
         "@ImSwampy",
-        "@kuromadara"
+        "@kuromadara",
+        "@Tanish-Azad"
     ]
 }
