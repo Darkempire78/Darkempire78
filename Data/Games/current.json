@@ -1,8 +1,8 @@
 {
     "grid": [
         [
-            2,
-            2,
+            null,
+            4,
             64,
             2
         ],
@@ -13,19 +13,19 @@
             4
         ],
         [
-            32,
-            32,
+            2,
             null,
-            null
+            null,
+            64
         ],
         [
-            8,
             null,
-            2,
-            null
+            null,
+            8,
+            2
         ]
     ],
-    "score": 768,
+    "score": 836,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -116,6 +116,7 @@
         "@Setlakwe",
         "@ImSwampy",
         "@kuromadara",
-        "@Tanish-Azad"
+        "@Tanish-Azad",
+        "@Nikpesu"
     ]
 }
