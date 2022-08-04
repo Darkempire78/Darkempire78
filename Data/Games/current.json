@@ -7,25 +7,25 @@
             2
         ],
         [
+            null,
             4,
-            16,
-            16,
+            32,
             4
         ],
         [
             null,
-            2,
             null,
+            2,
             64
         ],
         [
-            null,
+            2,
             null,
             null,
             2
         ]
     ],
-    "score": 856,
+    "score": 888,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -119,6 +119,7 @@
         "@Tanish-Azad",
         "@Nikpesu",
         "@sravan1946",
-        "@jaromeyer"
+        "@jaromeyer",
+        "@danthe1st"
     ]
 }
