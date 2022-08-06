@@ -7,25 +7,25 @@
             2
         ],
         [
-            2,
+            4,
             null,
             32,
             4
         ],
         [
-            2,
+            null,
             null,
             2,
             64
         ],
         [
-            null,
+            4,
             null,
             null,
             2
         ]
     ],
-    "score": 896,
+    "score": 900,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -121,6 +121,7 @@
         "@sravan1946",
         "@jaromeyer",
         "@danthe1st",
-        "@sravan1946"
+        "@sravan1946",
+        "@itsmeralph09"
     ]
 }
