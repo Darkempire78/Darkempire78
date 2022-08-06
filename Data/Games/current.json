@@ -2,30 +2,30 @@
     "grid": [
         [
             8,
-            4,
+            8,
             64,
             2
         ],
         [
+            2,
             null,
-            4,
             32,
             4
         ],
         [
-            null,
+            2,
             null,
             2,
             64
         ],
         [
-            2,
+            null,
             null,
             null,
             2
         ]
     ],
-    "score": 888,
+    "score": 896,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -120,6 +120,7 @@
         "@Nikpesu",
         "@sravan1946",
         "@jaromeyer",
-        "@danthe1st"
+        "@danthe1st",
+        "@sravan1946"
     ]
 }
