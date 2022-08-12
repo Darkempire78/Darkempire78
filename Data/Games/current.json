@@ -3,14 +3,14 @@
         [
             16,
             64,
-            2,
-            2
+            4,
+            null
         ],
         [
             4,
             32,
             4,
-            null
+            2
         ],
         [
             2,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 916,
+    "score": 920,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -123,6 +123,7 @@
         "@danthe1st",
         "@sravan1946",
         "@itsmeralph09",
-        "@Lucifer25x"
+        "@Lucifer25x",
+        "@dougmasten"
     ]
 }
