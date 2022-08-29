@@ -7,25 +7,25 @@
             4
         ],
         [
+            2,
             4,
             32,
-            4,
-            null
+            4
         ],
         [
-            2,
-            64,
             null,
-            null
+            null,
+            2,
+            64
         ],
         [
-            4,
-            2,
-            2,
-            null
+            null,
+            null,
+            null,
+            8
         ]
     ],
-    "score": 936,
+    "score": 948,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -127,6 +127,7 @@
         "@dougmasten",
         "@xSlOom",
         "@fily-gif",
-        "@taku-nm"
+        "@taku-nm",
+        "@Notha32"
     ]
 }
