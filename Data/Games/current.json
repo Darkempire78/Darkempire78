@@ -1,19 +1,19 @@
 {
     "grid": [
         [
+            null,
+            2,
+            null,
+            null
+        ],
+        [
             2,
             null,
             null,
             2
         ],
         [
-            16,
-            null,
-            null,
-            null
-        ],
-        [
-            16,
+            32,
             64,
             32,
             64
@@ -25,7 +25,7 @@
             8
         ]
     ],
-    "score": 972,
+    "score": 1004,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -130,6 +130,7 @@
         "@taku-nm",
         "@Notha32",
         "@tathaha",
-        "@diluteoxygen"
+        "@diluteoxygen",
+        "@daudix-UFO"
     ]
 }
