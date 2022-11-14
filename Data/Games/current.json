@@ -1,27 +1,27 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
+            2,
+            64,
+            32,
             2
         ],
         [
+            32,
+            4,
             2,
-            null,
-            null,
             16
         ],
         [
-            32,
-            64,
-            32,
+            2,
+            null,
+            null,
             64
         ],
         [
-            2,
             4,
-            2,
+            null,
+            null,
             8
         ]
     ],
@@ -138,6 +138,7 @@
         "@cizaquita",
         "@YunuMate",
         "@etahn-git",
-        "@Necl0"
+        "@Necl0",
+        "@Decem6er"
     ]
 }
