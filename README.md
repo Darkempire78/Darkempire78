@@ -18,7 +18,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary>
     <ul>
-        <li><strong>Discord :</strong> <code>Darkempire#8245</code></li>
+        <li><strong>Discord :</strong> <code>Backslashh#8245 (Darkempire)</code></li>
         <li><strong>Twitter :</strong> <code>@Im_Darkempire</code></li>
     </ul>
     
