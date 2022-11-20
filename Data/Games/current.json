@@ -7,9 +7,9 @@
             2
         ],
         [
-            2,
-            2,
             null,
+            null,
+            4,
             16
         ],
         [
@@ -19,13 +19,13 @@
             64
         ],
         [
-            4,
-            4,
+            2,
+            null,
             8,
-            8
+            16
         ]
     ],
-    "score": 1064,
+    "score": 1092,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -141,6 +141,7 @@
         "@Necl0",
         "@Decem6er",
         "@RamPawar7",
-        "@architelos"
+        "@architelos",
+        "@RamPawar7"
     ]
 }
