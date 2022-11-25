@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            32,
-            64,
+            null,
+            null,
             4,
             2
         ],
         [
             null,
-            2,
+            null,
             32,
             16
         ],
         [
-            null,
             2,
+            64,
             8,
             64
         ],
         [
-            null,
-            null,
+            32,
+            4,
             2,
             16
         ]
     ],
-    "score": 1092,
+    "score": 1096,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -144,6 +144,7 @@
         "@architelos",
         "@RamPawar7",
         "@aixizu",
-        "@RamPawar7"
+        "@RamPawar7",
+        "@NotFenixio"
     ]
 }
