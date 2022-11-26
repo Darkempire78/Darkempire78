@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            null,
-            null,
+            2,
+            64,
             4,
-            2
-        ],
-        [
-            null,
-            null,
-            32,
             16
         ],
         [
-            2,
-            64,
-            8,
+            32,
+            4,
+            32,
             64
         ],
         [
-            32,
-            4,
+            null,
             2,
-            16
+            8,
+            4
+        ],
+        [
+            null,
+            null,
+            2,
+            null
         ]
     ],
-    "score": 1096,
+    "score": 1100,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -145,6 +145,7 @@
         "@RamPawar7",
         "@aixizu",
         "@RamPawar7",
-        "@NotFenixio"
+        "@NotFenixio",
+        "@Jonathan5508"
     ]
 }
