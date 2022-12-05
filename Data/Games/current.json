@@ -13,16 +13,16 @@
             64
         ],
         [
-            null,
             2,
             8,
-            4
+            4,
+            null
         ],
         [
-            null,
-            null,
             2,
-            null
+            null,
+            null,
+            2
         ]
     ],
     "score": 1100,
@@ -146,6 +146,7 @@
         "@aixizu",
         "@RamPawar7",
         "@NotFenixio",
-        "@Jonathan5508"
+        "@Jonathan5508",
+        "@GEROGIANNIS"
     ]
 }
