@@ -13,19 +13,19 @@
             64
         ],
         [
-            2,
+            4,
             8,
             4,
-            null
+            2
         ],
         [
-            2,
+            null,
             null,
             null,
             2
         ]
     ],
-    "score": 1100,
+    "score": 1104,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -147,6 +147,7 @@
         "@RamPawar7",
         "@NotFenixio",
         "@Jonathan5508",
-        "@GEROGIANNIS"
+        "@GEROGIANNIS",
+        "@rozari0"
     ]
 }
