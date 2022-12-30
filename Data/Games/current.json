@@ -1,27 +1,27 @@
 {
     "grid": [
         [
+            null,
+            2,
+            null,
+            16
+        ],
+        [
             2,
             64,
             4,
-            16
+            64
         ],
         [
             32,
             4,
             32,
-            64
+            4
         ],
         [
             4,
             8,
             4,
-            4
-        ],
-        [
-            null,
-            null,
-            null,
             2
         ]
     ],
@@ -149,6 +149,7 @@
         "@Jonathan5508",
         "@GEROGIANNIS",
         "@rozari0",
-        "@upenha"
+        "@upenha",
+        "@exkc"
     ]
 }
