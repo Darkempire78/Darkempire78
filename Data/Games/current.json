@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            null,
+            32,
             2,
-            null,
+            4,
             16
         ],
         [
-            2,
+            8,
             64,
-            4,
+            32,
             64
         ],
         [
-            32,
+            null,
             4,
-            32,
+            4,
             4
         ],
         [
-            4,
+            2,
             8,
-            4,
+            null,
             2
         ]
     ],
-    "score": 1108,
+    "score": 1120,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -150,6 +150,7 @@
         "@GEROGIANNIS",
         "@rozari0",
         "@upenha",
-        "@exkc"
+        "@exkc",
+        "@ema-dg"
     ]
 }
