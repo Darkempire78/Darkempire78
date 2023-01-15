@@ -14,18 +14,18 @@
         ],
         [
             null,
-            null,
+            2,
             4,
             8
         ],
         [
-            2,
-            2,
+            null,
+            4,
             8,
             2
         ]
     ],
-    "score": 1128,
+    "score": 1132,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -152,6 +152,7 @@
         "@upenha",
         "@exkc",
         "@ema-dg",
-        "@niclan051"
+        "@niclan051",
+        "@Camillewz24340"
     ]
 }
