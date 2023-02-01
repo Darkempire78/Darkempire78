@@ -13,16 +13,16 @@
             64
         ],
         [
-            null,
             2,
-            4,
-            8
-        ],
-        [
-            null,
             4,
             8,
             2
+        ],
+        [
+            4,
+            8,
+            2,
+            null
         ]
     ],
     "score": 1132,
@@ -153,6 +153,7 @@
         "@exkc",
         "@ema-dg",
         "@niclan051",
-        "@Camillewz24340"
+        "@Camillewz24340",
+        "@lefterisgar"
     ]
 }
