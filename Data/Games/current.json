@@ -13,19 +13,19 @@
             64
         ],
         [
-            2,
             4,
             8,
-            4
+            16,
+            8
         ],
         [
-            2,
-            4,
-            8,
-            4
+            null,
+            null,
+            null,
+            2
         ]
     ],
-    "score": 1140,
+    "score": 1176,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -157,6 +157,7 @@
         "@lefterisgar",
         "@sus2790",
         "@Camillewz24340",
-        "@mwadle"
+        "@mwadle",
+        "@Camillewz24340"
     ]
 }
