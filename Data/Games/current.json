@@ -7,10 +7,10 @@
             16
         ],
         [
-            16,
-            64,
-            32,
-            64
+            128,
+            null,
+            null,
+            null
         ],
         [
             4,
@@ -19,13 +19,13 @@
             8
         ],
         [
-            null,
+            2,
             null,
             null,
             2
         ]
     ],
-    "score": 1204,
+    "score": 1428,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -161,6 +161,7 @@
         "@Camillewz24340",
         "@Domefemia",
         "@foneazmi",
-        "@throwaway-d"
+        "@throwaway-d",
+        "@busybox11"
     ]
 }
