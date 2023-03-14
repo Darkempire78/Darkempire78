@@ -19,13 +19,13 @@
             8
         ],
         [
+            4,
+            null,
             2,
-            null,
-            null,
-            2
+            null
         ]
     ],
-    "score": 1428,
+    "score": 1432,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -162,6 +162,7 @@
         "@Domefemia",
         "@foneazmi",
         "@throwaway-d",
-        "@busybox11"
+        "@busybox11",
+        "@Zerbaib"
     ]
 }
