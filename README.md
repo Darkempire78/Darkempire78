@@ -50,10 +50,10 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@andalonga](https://github.com/andalonga) | 5 |
 | [@wolf-yuan-6115](https://github.com/wolf-yuan-6115) | 4 |
 | [@zurgeg](https://github.com/zurgeg) | 4 |
+| [@Camillewz24340](https://github.com/Camillewz24340) | 4 |
 | [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
 | [@elias1607](https://github.com/elias1607) | 3 |
 | [@Sellig6792](https://github.com/Sellig6792) | 3 |
-| [@pieckenst](https://github.com/pieckenst) | 3 |
 <!-- 2048Ranking -->
 
 <details><summary><b>How this works</b></summary>
