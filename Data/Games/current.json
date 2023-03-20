@@ -4,28 +4,28 @@
             null,
             null,
             null,
-            null
+            2
         ],
         [
             32,
-            null,
             4,
-            2
+            2,
+            null
         ],
         [
             128,
             2,
-            16,
-            16
+            32,
+            null
         ],
         [
-            8,
-            8,
+            16,
             2,
-            8
+            8,
+            null
         ]
     ],
-    "score": 1440,
+    "score": 1488,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -164,6 +164,7 @@
         "@throwaway-d",
         "@busybox11",
         "@Zerbaib",
-        "@Camillewz24340"
+        "@Camillewz24340",
+        "@Willy-JL"
     ]
 }
