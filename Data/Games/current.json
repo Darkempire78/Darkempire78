@@ -7,25 +7,25 @@
             2
         ],
         [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            32,
+            2
+        ],
+        [
             2,
-            null,
-            32,
-            2
-        ],
-        [
-            null,
             128,
-            32,
-            2
-        ],
-        [
-            null,
-            null,
-            32,
-            4
+            64,
+            8
         ]
     ],
-    "score": 1552,
+    "score": 1628,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -169,6 +169,7 @@
         "@Jonathan5508",
         "@Zerbaib",
         "@patpat-iris",
-        "@Zerbaib"
+        "@Zerbaib",
+        "@patpat-iris"
     ]
 }
