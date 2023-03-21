@@ -48,7 +48,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 | [@Pandicon](https://github.com/Pandicon) | 15 |
 | [@8BitJonny](https://github.com/8BitJonny) | 10 |
 | [@Zerbaib](https://github.com/Zerbaib) | 10 |
-| [@patpat-iris](https://github.com/patpat-iris) | 7 |
+| [@patpat-iris](https://github.com/patpat-iris) | 8 |
 | [@andalonga](https://github.com/andalonga) | 5 |
 | [@wolf-yuan-6115](https://github.com/wolf-yuan-6115) | 4 |
 | [@zurgeg](https://github.com/zurgeg) | 4 |
