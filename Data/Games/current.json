@@ -1,10 +1,10 @@
 {
     "grid": [
         [
+            null,
             16,
             2,
-            2,
-            2
+            4
         ],
         [
             null,
@@ -14,18 +14,18 @@
         ],
         [
             null,
-            128,
-            null,
-            null
-        ],
-        [
             2,
             null,
+            128
+        ],
+        [
             null,
-            null
+            null,
+            null,
+            2
         ]
     ],
-    "score": 1704,
+    "score": 1708,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -182,6 +182,7 @@
         "@Zerbaib",
         "@patpat-iris",
         "@Zerbaib",
-        "@dexi22"
+        "@dexi22",
+        "@Zerbaib"
     ]
 }
