@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
+            16,
             2,
-            null,
+            2,
             2
         ],
         [
             null,
             32,
-            2,
+            64,
+            16
+        ],
+        [
+            null,
+            128,
+            null,
             null
         ],
         [
-            16,
-            128,
-            64,
-            16
+            2,
+            null,
+            null,
+            null
         ]
     ],
     "score": 1704,
@@ -181,6 +181,7 @@
         "@patpat-iris",
         "@Zerbaib",
         "@patpat-iris",
-        "@Zerbaib"
+        "@Zerbaib",
+        "@dexi22"
     ]
 }
