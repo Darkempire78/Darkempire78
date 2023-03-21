@@ -7,22 +7,22 @@
             4
         ],
         [
-            null,
             32,
             64,
-            16
+            16,
+            null
         ],
         [
-            null,
+            2,
+            128,
+            2,
+            null
+        ],
+        [
             2,
             null,
-            128
-        ],
-        [
             null,
-            null,
-            null,
-            2
+            null
         ]
     ],
     "score": 1708,
@@ -184,6 +184,7 @@
         "@Zerbaib",
         "@dexi22",
         "@Zerbaib",
-        "@patpat-iris"
+        "@patpat-iris",
+        "@Zerbaib"
     ]
 }
