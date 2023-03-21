@@ -2,27 +2,27 @@
     "grid": [
         [
             4,
-            16,
-            2,
-            4
+            null,
+            null,
+            2
         ],
         [
             32,
+            16,
+            2,
+            null
+        ],
+        [
+            4,
             64,
             16,
             null
         ],
         [
-            4,
+            2,
             128,
             2,
-            null
-        ],
-        [
-            2,
-            null,
-            null,
-            null
+            4
         ]
     ],
     "score": 1712,
@@ -186,6 +186,7 @@
         "@Zerbaib",
         "@patpat-iris",
         "@Zerbaib",
-        "@patpat-iris"
+        "@patpat-iris",
+        "@Zerbaib"
     ]
 }
