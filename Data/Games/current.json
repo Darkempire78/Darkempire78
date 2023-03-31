@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
             2,
-            null,
-            null
-        ],
-        [
             2,
-            32,
             2,
-            null
+            16
         ],
         [
             4,
-            64,
+            32,
             32,
             null
         ],
         [
             2,
-            128,
+            64,
             2,
-            16
+            2
+        ],
+        [
+            null,
+            128,
+            null,
+            null
         ]
     ],
     "score": 1780,
@@ -190,6 +190,7 @@
         "@Zerbaib",
         "@Nathack-dev",
         "@taku-nm",
-        "@Zerbaib"
+        "@Zerbaib",
+        "@ziadOUA"
     ]
 }
