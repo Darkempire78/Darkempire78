@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            4,
-            2,
+            null,
+            null,
+            null,
+            2
+        ],
+        [
+            8,
+            null,
             16,
             null
         ],
         [
-            4,
-            64,
-            null,
-            null
-        ],
-        [
             2,
-            64,
+            2,
             4,
             null
         ],
         [
             128,
-            null,
+            128,
             2,
             null
         ]
     ],
-    "score": 1852,
+    "score": 1988,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -192,6 +192,7 @@
         "@taku-nm",
         "@Zerbaib",
         "@ziadOUA",
-        "@Rix565"
+        "@Rix565",
+        "@NotFenixio"
     ]
 }
