@@ -7,14 +7,14 @@
             null
         ],
         [
-            8,
-            16,
+            2,
+            null,
             null,
             null
         ],
         [
-            8,
-            null,
+            16,
+            16,
             null,
             null
         ],
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 2256,
+    "score": 2272,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -194,6 +194,7 @@
         "@ziadOUA",
         "@Rix565",
         "@NotFenixio",
-        "@vanillyn"
+        "@vanillyn",
+        "@Vraell"
     ]
 }
