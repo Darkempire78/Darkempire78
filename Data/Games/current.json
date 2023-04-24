@@ -1,14 +1,14 @@
 {
     "grid": [
         [
-            2,
+            null,
             null,
             null,
             null
         ],
         [
+            4,
             2,
-            null,
             null,
             null
         ],
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 2308,
+    "score": 2312,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -196,6 +196,7 @@
         "@NotFenixio",
         "@vanillyn",
         "@Vraell",
-        "@ziadOUA"
+        "@ziadOUA",
+        "@xRedemption"
     ]
 }
