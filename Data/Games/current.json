@@ -1,27 +1,27 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
             4,
             2,
-            null,
+            2,
             null
         ],
         [
             32,
-            null,
+            4,
             null,
             null
         ],
         [
             256,
-            4,
-            2,
+            null,
+            null,
+            2
+        ],
+        [
+            null,
+            null,
+            null,
             null
         ]
     ],
@@ -197,6 +197,7 @@
         "@vanillyn",
         "@Vraell",
         "@ziadOUA",
-        "@xRedemption"
+        "@xRedemption",
+        "@ziadOUA"
     ]
 }
