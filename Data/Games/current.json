@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            4,
-            2,
+            null,
+            null,
             2,
             null
         ],
         [
-            32,
             4,
+            null,
+            null,
+            null
+        ],
+        [
+            32,
+            2,
             null,
             null
         ],
         [
             256,
-            null,
-            null,
+            4,
+            2,
             2
-        ],
-        [
-            null,
-            null,
-            null,
-            null
         ]
     ],
     "score": 2312,
@@ -198,6 +198,7 @@
         "@Vraell",
         "@ziadOUA",
         "@xRedemption",
-        "@ziadOUA"
+        "@ziadOUA",
+        "@ctntt"
     ]
 }
