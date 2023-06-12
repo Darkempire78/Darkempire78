@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
+            4,
+            4,
+            2,
+            2
+        ],
+        [
+            32,
+            8,
+            4,
+            null
+        ],
+        [
+            256,
             null,
             2,
             null
         ],
         [
-            4,
             null,
             null,
-            null
-        ],
-        [
-            32,
-            4,
             null,
             null
-        ],
-        [
-            256,
-            8,
-            4,
-            2
         ]
     ],
     "score": 2328,
@@ -202,6 +202,7 @@
         "@ctntt",
         "@RVFET",
         "@xDAVIDBECKER24x",
-        "@S-Semyon"
+        "@S-Semyon",
+        "@DatPieceOfCake12"
     ]
 }
