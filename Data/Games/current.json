@@ -2,8 +2,8 @@
     "grid": [
         [
             null,
-            2,
             null,
+            2,
             null
         ],
         [
@@ -14,7 +14,7 @@
         ],
         [
             32,
-            2,
+            4,
             null,
             null
         ],
@@ -25,7 +25,7 @@
             2
         ]
     ],
-    "score": 2324,
+    "score": 2328,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -201,6 +201,7 @@
         "@ziadOUA",
         "@ctntt",
         "@RVFET",
-        "@xDAVIDBECKER24x"
+        "@xDAVIDBECKER24x",
+        "@S-Semyon"
     ]
 }
