@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            null,
+            null,
             4,
-            4,
-            2,
+            8
+        ],
+        [
+            null,
+            32,
+            8,
+            4
+        ],
+        [
+            null,
+            null,
+            256,
             2
         ],
         [
-            32,
-            8,
-            4,
-            null
-        ],
-        [
-            256,
-            null,
             2,
-            null
-        ],
-        [
-            null,
             null,
             null,
             null
         ]
     ],
-    "score": 2328,
+    "score": 2340,
     "bestScore": 2632,
     "moves": [
         "@Lebyy",
@@ -203,6 +203,7 @@
         "@RVFET",
         "@xDAVIDBECKER24x",
         "@S-Semyon",
-        "@DatPieceOfCake12"
+        "@DatPieceOfCake12",
+        "@Minejerik"
     ]
 }
