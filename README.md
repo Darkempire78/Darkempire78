@@ -19,6 +19,7 @@ I'm passionated about computing and marketing. I'm also fascinated by machine le
 <details><summary><b>Contact me</b></summary>
     <ul>
         <li><strong>Discord :</strong> <code>Backslashh#8245 (Darkempire)</code></li>
+        <li><strong>Email :</strong> <code>darkempirepro@gmail.com</code></li>
     </ul>
     
 **Join the Discord server !**
